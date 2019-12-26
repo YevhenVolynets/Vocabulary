@@ -26,6 +26,1967 @@ namespace Vocabulary.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Prism.Resource.Animation.abc_fade_in = global::Vocabulary.Droid.Resource.Animation.abc_fade_in;
+			global::Prism.Resource.Animation.abc_fade_out = global::Vocabulary.Droid.Resource.Animation.abc_fade_out;
+			global::Prism.Resource.Animation.abc_grow_fade_in_from_bottom = global::Vocabulary.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Prism.Resource.Animation.abc_popup_enter = global::Vocabulary.Droid.Resource.Animation.abc_popup_enter;
+			global::Prism.Resource.Animation.abc_popup_exit = global::Vocabulary.Droid.Resource.Animation.abc_popup_exit;
+			global::Prism.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Vocabulary.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Prism.Resource.Animation.abc_slide_in_bottom = global::Vocabulary.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Prism.Resource.Animation.abc_slide_in_top = global::Vocabulary.Droid.Resource.Animation.abc_slide_in_top;
+			global::Prism.Resource.Animation.abc_slide_out_bottom = global::Vocabulary.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Prism.Resource.Animation.abc_slide_out_top = global::Vocabulary.Droid.Resource.Animation.abc_slide_out_top;
+			global::Prism.Resource.Animation.design_bottom_sheet_slide_in = global::Vocabulary.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Prism.Resource.Animation.design_bottom_sheet_slide_out = global::Vocabulary.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Prism.Resource.Animation.design_snackbar_in = global::Vocabulary.Droid.Resource.Animation.design_snackbar_in;
+			global::Prism.Resource.Animation.design_snackbar_out = global::Vocabulary.Droid.Resource.Animation.design_snackbar_out;
+			global::Prism.Resource.Animation.EnterFromLeft = global::Vocabulary.Droid.Resource.Animation.EnterFromLeft;
+			global::Prism.Resource.Animation.EnterFromRight = global::Vocabulary.Droid.Resource.Animation.EnterFromRight;
+			global::Prism.Resource.Animation.ExitToLeft = global::Vocabulary.Droid.Resource.Animation.ExitToLeft;
+			global::Prism.Resource.Animation.ExitToRight = global::Vocabulary.Droid.Resource.Animation.ExitToRight;
+			global::Prism.Resource.Animator.design_appbar_state_list_animator = global::Vocabulary.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Prism.Resource.Attribute.actionBarDivider = global::Vocabulary.Droid.Resource.Attribute.actionBarDivider;
+			global::Prism.Resource.Attribute.actionBarItemBackground = global::Vocabulary.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Prism.Resource.Attribute.actionBarPopupTheme = global::Vocabulary.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Prism.Resource.Attribute.actionBarSize = global::Vocabulary.Droid.Resource.Attribute.actionBarSize;
+			global::Prism.Resource.Attribute.actionBarSplitStyle = global::Vocabulary.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Prism.Resource.Attribute.actionBarStyle = global::Vocabulary.Droid.Resource.Attribute.actionBarStyle;
+			global::Prism.Resource.Attribute.actionBarTabBarStyle = global::Vocabulary.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Prism.Resource.Attribute.actionBarTabStyle = global::Vocabulary.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Prism.Resource.Attribute.actionBarTabTextStyle = global::Vocabulary.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Prism.Resource.Attribute.actionBarTheme = global::Vocabulary.Droid.Resource.Attribute.actionBarTheme;
+			global::Prism.Resource.Attribute.actionBarWidgetTheme = global::Vocabulary.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Prism.Resource.Attribute.actionButtonStyle = global::Vocabulary.Droid.Resource.Attribute.actionButtonStyle;
+			global::Prism.Resource.Attribute.actionDropDownStyle = global::Vocabulary.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Prism.Resource.Attribute.actionLayout = global::Vocabulary.Droid.Resource.Attribute.actionLayout;
+			global::Prism.Resource.Attribute.actionMenuTextAppearance = global::Vocabulary.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Prism.Resource.Attribute.actionMenuTextColor = global::Vocabulary.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Prism.Resource.Attribute.actionModeBackground = global::Vocabulary.Droid.Resource.Attribute.actionModeBackground;
+			global::Prism.Resource.Attribute.actionModeCloseButtonStyle = global::Vocabulary.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Prism.Resource.Attribute.actionModeCloseDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Prism.Resource.Attribute.actionModeCopyDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Prism.Resource.Attribute.actionModeCutDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Prism.Resource.Attribute.actionModeFindDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Prism.Resource.Attribute.actionModePasteDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Prism.Resource.Attribute.actionModePopupWindowStyle = global::Vocabulary.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Prism.Resource.Attribute.actionModeSelectAllDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Prism.Resource.Attribute.actionModeShareDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Prism.Resource.Attribute.actionModeSplitBackground = global::Vocabulary.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Prism.Resource.Attribute.actionModeStyle = global::Vocabulary.Droid.Resource.Attribute.actionModeStyle;
+			global::Prism.Resource.Attribute.actionModeWebSearchDrawable = global::Vocabulary.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Prism.Resource.Attribute.actionOverflowButtonStyle = global::Vocabulary.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Prism.Resource.Attribute.actionOverflowMenuStyle = global::Vocabulary.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Prism.Resource.Attribute.actionProviderClass = global::Vocabulary.Droid.Resource.Attribute.actionProviderClass;
+			global::Prism.Resource.Attribute.actionViewClass = global::Vocabulary.Droid.Resource.Attribute.actionViewClass;
+			global::Prism.Resource.Attribute.activityChooserViewStyle = global::Vocabulary.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Prism.Resource.Attribute.alertDialogButtonGroupStyle = global::Vocabulary.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Prism.Resource.Attribute.alertDialogCenterButtons = global::Vocabulary.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Prism.Resource.Attribute.alertDialogStyle = global::Vocabulary.Droid.Resource.Attribute.alertDialogStyle;
+			global::Prism.Resource.Attribute.alertDialogTheme = global::Vocabulary.Droid.Resource.Attribute.alertDialogTheme;
+			global::Prism.Resource.Attribute.allowStacking = global::Vocabulary.Droid.Resource.Attribute.allowStacking;
+			global::Prism.Resource.Attribute.alpha = global::Vocabulary.Droid.Resource.Attribute.alpha;
+			global::Prism.Resource.Attribute.alphabeticModifiers = global::Vocabulary.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Prism.Resource.Attribute.arrowHeadLength = global::Vocabulary.Droid.Resource.Attribute.arrowHeadLength;
+			global::Prism.Resource.Attribute.arrowShaftLength = global::Vocabulary.Droid.Resource.Attribute.arrowShaftLength;
+			global::Prism.Resource.Attribute.autoCompleteTextViewStyle = global::Vocabulary.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Prism.Resource.Attribute.autoSizeMaxTextSize = global::Vocabulary.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Prism.Resource.Attribute.autoSizeMinTextSize = global::Vocabulary.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Prism.Resource.Attribute.autoSizePresetSizes = global::Vocabulary.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Prism.Resource.Attribute.autoSizeStepGranularity = global::Vocabulary.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Prism.Resource.Attribute.autoSizeTextType = global::Vocabulary.Droid.Resource.Attribute.autoSizeTextType;
+			global::Prism.Resource.Attribute.background = global::Vocabulary.Droid.Resource.Attribute.background;
+			global::Prism.Resource.Attribute.backgroundSplit = global::Vocabulary.Droid.Resource.Attribute.backgroundSplit;
+			global::Prism.Resource.Attribute.backgroundStacked = global::Vocabulary.Droid.Resource.Attribute.backgroundStacked;
+			global::Prism.Resource.Attribute.backgroundTint = global::Vocabulary.Droid.Resource.Attribute.backgroundTint;
+			global::Prism.Resource.Attribute.backgroundTintMode = global::Vocabulary.Droid.Resource.Attribute.backgroundTintMode;
+			global::Prism.Resource.Attribute.barLength = global::Vocabulary.Droid.Resource.Attribute.barLength;
+			global::Prism.Resource.Attribute.behavior_autoHide = global::Vocabulary.Droid.Resource.Attribute.behavior_autoHide;
+			global::Prism.Resource.Attribute.behavior_hideable = global::Vocabulary.Droid.Resource.Attribute.behavior_hideable;
+			global::Prism.Resource.Attribute.behavior_overlapTop = global::Vocabulary.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Prism.Resource.Attribute.behavior_peekHeight = global::Vocabulary.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Prism.Resource.Attribute.behavior_skipCollapsed = global::Vocabulary.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Prism.Resource.Attribute.borderlessButtonStyle = global::Vocabulary.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Prism.Resource.Attribute.borderWidth = global::Vocabulary.Droid.Resource.Attribute.borderWidth;
+			global::Prism.Resource.Attribute.bottomSheetDialogTheme = global::Vocabulary.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Prism.Resource.Attribute.bottomSheetStyle = global::Vocabulary.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Prism.Resource.Attribute.buttonBarButtonStyle = global::Vocabulary.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarNegativeButtonStyle = global::Vocabulary.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarNeutralButtonStyle = global::Vocabulary.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarPositiveButtonStyle = global::Vocabulary.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Prism.Resource.Attribute.buttonBarStyle = global::Vocabulary.Droid.Resource.Attribute.buttonBarStyle;
+			global::Prism.Resource.Attribute.buttonGravity = global::Vocabulary.Droid.Resource.Attribute.buttonGravity;
+			global::Prism.Resource.Attribute.buttonPanelSideLayout = global::Vocabulary.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Prism.Resource.Attribute.buttonStyle = global::Vocabulary.Droid.Resource.Attribute.buttonStyle;
+			global::Prism.Resource.Attribute.buttonStyleSmall = global::Vocabulary.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Prism.Resource.Attribute.buttonTint = global::Vocabulary.Droid.Resource.Attribute.buttonTint;
+			global::Prism.Resource.Attribute.buttonTintMode = global::Vocabulary.Droid.Resource.Attribute.buttonTintMode;
+			global::Prism.Resource.Attribute.cardBackgroundColor = global::Vocabulary.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Prism.Resource.Attribute.cardCornerRadius = global::Vocabulary.Droid.Resource.Attribute.cardCornerRadius;
+			global::Prism.Resource.Attribute.cardElevation = global::Vocabulary.Droid.Resource.Attribute.cardElevation;
+			global::Prism.Resource.Attribute.cardMaxElevation = global::Vocabulary.Droid.Resource.Attribute.cardMaxElevation;
+			global::Prism.Resource.Attribute.cardPreventCornerOverlap = global::Vocabulary.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Prism.Resource.Attribute.cardUseCompatPadding = global::Vocabulary.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Prism.Resource.Attribute.checkboxStyle = global::Vocabulary.Droid.Resource.Attribute.checkboxStyle;
+			global::Prism.Resource.Attribute.checkedTextViewStyle = global::Vocabulary.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Prism.Resource.Attribute.closeIcon = global::Vocabulary.Droid.Resource.Attribute.closeIcon;
+			global::Prism.Resource.Attribute.closeItemLayout = global::Vocabulary.Droid.Resource.Attribute.closeItemLayout;
+			global::Prism.Resource.Attribute.collapseContentDescription = global::Vocabulary.Droid.Resource.Attribute.collapseContentDescription;
+			global::Prism.Resource.Attribute.collapsedTitleGravity = global::Vocabulary.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Prism.Resource.Attribute.collapsedTitleTextAppearance = global::Vocabulary.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Prism.Resource.Attribute.collapseIcon = global::Vocabulary.Droid.Resource.Attribute.collapseIcon;
+			global::Prism.Resource.Attribute.color = global::Vocabulary.Droid.Resource.Attribute.color;
+			global::Prism.Resource.Attribute.colorAccent = global::Vocabulary.Droid.Resource.Attribute.colorAccent;
+			global::Prism.Resource.Attribute.colorBackgroundFloating = global::Vocabulary.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Prism.Resource.Attribute.colorButtonNormal = global::Vocabulary.Droid.Resource.Attribute.colorButtonNormal;
+			global::Prism.Resource.Attribute.colorControlActivated = global::Vocabulary.Droid.Resource.Attribute.colorControlActivated;
+			global::Prism.Resource.Attribute.colorControlHighlight = global::Vocabulary.Droid.Resource.Attribute.colorControlHighlight;
+			global::Prism.Resource.Attribute.colorControlNormal = global::Vocabulary.Droid.Resource.Attribute.colorControlNormal;
+			global::Prism.Resource.Attribute.colorError = global::Vocabulary.Droid.Resource.Attribute.colorError;
+			global::Prism.Resource.Attribute.colorPrimary = global::Vocabulary.Droid.Resource.Attribute.colorPrimary;
+			global::Prism.Resource.Attribute.colorPrimaryDark = global::Vocabulary.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Prism.Resource.Attribute.colorSwitchThumbNormal = global::Vocabulary.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Prism.Resource.Attribute.commitIcon = global::Vocabulary.Droid.Resource.Attribute.commitIcon;
+			global::Prism.Resource.Attribute.contentDescription = global::Vocabulary.Droid.Resource.Attribute.contentDescription;
+			global::Prism.Resource.Attribute.contentInsetEnd = global::Vocabulary.Droid.Resource.Attribute.contentInsetEnd;
+			global::Prism.Resource.Attribute.contentInsetEndWithActions = global::Vocabulary.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Prism.Resource.Attribute.contentInsetLeft = global::Vocabulary.Droid.Resource.Attribute.contentInsetLeft;
+			global::Prism.Resource.Attribute.contentInsetRight = global::Vocabulary.Droid.Resource.Attribute.contentInsetRight;
+			global::Prism.Resource.Attribute.contentInsetStart = global::Vocabulary.Droid.Resource.Attribute.contentInsetStart;
+			global::Prism.Resource.Attribute.contentInsetStartWithNavigation = global::Vocabulary.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Prism.Resource.Attribute.contentPadding = global::Vocabulary.Droid.Resource.Attribute.contentPadding;
+			global::Prism.Resource.Attribute.contentPaddingBottom = global::Vocabulary.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Prism.Resource.Attribute.contentPaddingLeft = global::Vocabulary.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Prism.Resource.Attribute.contentPaddingRight = global::Vocabulary.Droid.Resource.Attribute.contentPaddingRight;
+			global::Prism.Resource.Attribute.contentPaddingTop = global::Vocabulary.Droid.Resource.Attribute.contentPaddingTop;
+			global::Prism.Resource.Attribute.contentScrim = global::Vocabulary.Droid.Resource.Attribute.contentScrim;
+			global::Prism.Resource.Attribute.controlBackground = global::Vocabulary.Droid.Resource.Attribute.controlBackground;
+			global::Prism.Resource.Attribute.counterEnabled = global::Vocabulary.Droid.Resource.Attribute.counterEnabled;
+			global::Prism.Resource.Attribute.counterMaxLength = global::Vocabulary.Droid.Resource.Attribute.counterMaxLength;
+			global::Prism.Resource.Attribute.counterOverflowTextAppearance = global::Vocabulary.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Prism.Resource.Attribute.counterTextAppearance = global::Vocabulary.Droid.Resource.Attribute.counterTextAppearance;
+			global::Prism.Resource.Attribute.customNavigationLayout = global::Vocabulary.Droid.Resource.Attribute.customNavigationLayout;
+			global::Prism.Resource.Attribute.defaultQueryHint = global::Vocabulary.Droid.Resource.Attribute.defaultQueryHint;
+			global::Prism.Resource.Attribute.dialogPreferredPadding = global::Vocabulary.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Prism.Resource.Attribute.dialogTheme = global::Vocabulary.Droid.Resource.Attribute.dialogTheme;
+			global::Prism.Resource.Attribute.displayOptions = global::Vocabulary.Droid.Resource.Attribute.displayOptions;
+			global::Prism.Resource.Attribute.divider = global::Vocabulary.Droid.Resource.Attribute.divider;
+			global::Prism.Resource.Attribute.dividerHorizontal = global::Vocabulary.Droid.Resource.Attribute.dividerHorizontal;
+			global::Prism.Resource.Attribute.dividerPadding = global::Vocabulary.Droid.Resource.Attribute.dividerPadding;
+			global::Prism.Resource.Attribute.dividerVertical = global::Vocabulary.Droid.Resource.Attribute.dividerVertical;
+			global::Prism.Resource.Attribute.drawableSize = global::Vocabulary.Droid.Resource.Attribute.drawableSize;
+			global::Prism.Resource.Attribute.drawerArrowStyle = global::Vocabulary.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Prism.Resource.Attribute.dropdownListPreferredItemHeight = global::Vocabulary.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Prism.Resource.Attribute.dropDownListViewStyle = global::Vocabulary.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Prism.Resource.Attribute.editTextBackground = global::Vocabulary.Droid.Resource.Attribute.editTextBackground;
+			global::Prism.Resource.Attribute.editTextColor = global::Vocabulary.Droid.Resource.Attribute.editTextColor;
+			global::Prism.Resource.Attribute.editTextStyle = global::Vocabulary.Droid.Resource.Attribute.editTextStyle;
+			global::Prism.Resource.Attribute.elevation = global::Vocabulary.Droid.Resource.Attribute.elevation;
+			global::Prism.Resource.Attribute.errorEnabled = global::Vocabulary.Droid.Resource.Attribute.errorEnabled;
+			global::Prism.Resource.Attribute.errorTextAppearance = global::Vocabulary.Droid.Resource.Attribute.errorTextAppearance;
+			global::Prism.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Vocabulary.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Prism.Resource.Attribute.expanded = global::Vocabulary.Droid.Resource.Attribute.expanded;
+			global::Prism.Resource.Attribute.expandedTitleGravity = global::Vocabulary.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Prism.Resource.Attribute.expandedTitleMargin = global::Vocabulary.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Prism.Resource.Attribute.expandedTitleMarginBottom = global::Vocabulary.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Prism.Resource.Attribute.expandedTitleMarginEnd = global::Vocabulary.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Prism.Resource.Attribute.expandedTitleMarginStart = global::Vocabulary.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Prism.Resource.Attribute.expandedTitleMarginTop = global::Vocabulary.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Prism.Resource.Attribute.expandedTitleTextAppearance = global::Vocabulary.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Prism.Resource.Attribute.fabSize = global::Vocabulary.Droid.Resource.Attribute.fabSize;
+			global::Prism.Resource.Attribute.fastScrollEnabled = global::Vocabulary.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Prism.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Vocabulary.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Prism.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Vocabulary.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Prism.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Vocabulary.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Prism.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Vocabulary.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Prism.Resource.Attribute.font = global::Vocabulary.Droid.Resource.Attribute.font;
+			global::Prism.Resource.Attribute.fontFamily = global::Vocabulary.Droid.Resource.Attribute.fontFamily;
+			global::Prism.Resource.Attribute.fontProviderAuthority = global::Vocabulary.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Prism.Resource.Attribute.fontProviderCerts = global::Vocabulary.Droid.Resource.Attribute.fontProviderCerts;
+			global::Prism.Resource.Attribute.fontProviderFetchStrategy = global::Vocabulary.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Prism.Resource.Attribute.fontProviderFetchTimeout = global::Vocabulary.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Prism.Resource.Attribute.fontProviderPackage = global::Vocabulary.Droid.Resource.Attribute.fontProviderPackage;
+			global::Prism.Resource.Attribute.fontProviderQuery = global::Vocabulary.Droid.Resource.Attribute.fontProviderQuery;
+			global::Prism.Resource.Attribute.fontStyle = global::Vocabulary.Droid.Resource.Attribute.fontStyle;
+			global::Prism.Resource.Attribute.fontWeight = global::Vocabulary.Droid.Resource.Attribute.fontWeight;
+			global::Prism.Resource.Attribute.foregroundInsidePadding = global::Vocabulary.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Prism.Resource.Attribute.gapBetweenBars = global::Vocabulary.Droid.Resource.Attribute.gapBetweenBars;
+			global::Prism.Resource.Attribute.goIcon = global::Vocabulary.Droid.Resource.Attribute.goIcon;
+			global::Prism.Resource.Attribute.headerLayout = global::Vocabulary.Droid.Resource.Attribute.headerLayout;
+			global::Prism.Resource.Attribute.height = global::Vocabulary.Droid.Resource.Attribute.height;
+			global::Prism.Resource.Attribute.hideOnContentScroll = global::Vocabulary.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Prism.Resource.Attribute.hintAnimationEnabled = global::Vocabulary.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Prism.Resource.Attribute.hintEnabled = global::Vocabulary.Droid.Resource.Attribute.hintEnabled;
+			global::Prism.Resource.Attribute.hintTextAppearance = global::Vocabulary.Droid.Resource.Attribute.hintTextAppearance;
+			global::Prism.Resource.Attribute.homeAsUpIndicator = global::Vocabulary.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Prism.Resource.Attribute.homeLayout = global::Vocabulary.Droid.Resource.Attribute.homeLayout;
+			global::Prism.Resource.Attribute.icon = global::Vocabulary.Droid.Resource.Attribute.icon;
+			global::Prism.Resource.Attribute.iconifiedByDefault = global::Vocabulary.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Prism.Resource.Attribute.iconTint = global::Vocabulary.Droid.Resource.Attribute.iconTint;
+			global::Prism.Resource.Attribute.iconTintMode = global::Vocabulary.Droid.Resource.Attribute.iconTintMode;
+			global::Prism.Resource.Attribute.imageButtonStyle = global::Vocabulary.Droid.Resource.Attribute.imageButtonStyle;
+			global::Prism.Resource.Attribute.indeterminateProgressStyle = global::Vocabulary.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Prism.Resource.Attribute.initialActivityCount = global::Vocabulary.Droid.Resource.Attribute.initialActivityCount;
+			global::Prism.Resource.Attribute.insetForeground = global::Vocabulary.Droid.Resource.Attribute.insetForeground;
+			global::Prism.Resource.Attribute.isLightTheme = global::Vocabulary.Droid.Resource.Attribute.isLightTheme;
+			global::Prism.Resource.Attribute.itemBackground = global::Vocabulary.Droid.Resource.Attribute.itemBackground;
+			global::Prism.Resource.Attribute.itemIconTint = global::Vocabulary.Droid.Resource.Attribute.itemIconTint;
+			global::Prism.Resource.Attribute.itemPadding = global::Vocabulary.Droid.Resource.Attribute.itemPadding;
+			global::Prism.Resource.Attribute.itemTextAppearance = global::Vocabulary.Droid.Resource.Attribute.itemTextAppearance;
+			global::Prism.Resource.Attribute.itemTextColor = global::Vocabulary.Droid.Resource.Attribute.itemTextColor;
+			global::Prism.Resource.Attribute.keylines = global::Vocabulary.Droid.Resource.Attribute.keylines;
+			global::Prism.Resource.Attribute.layout = global::Vocabulary.Droid.Resource.Attribute.layout;
+			global::Prism.Resource.Attribute.layoutManager = global::Vocabulary.Droid.Resource.Attribute.layoutManager;
+			global::Prism.Resource.Attribute.layout_anchor = global::Vocabulary.Droid.Resource.Attribute.layout_anchor;
+			global::Prism.Resource.Attribute.layout_anchorGravity = global::Vocabulary.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Prism.Resource.Attribute.layout_behavior = global::Vocabulary.Droid.Resource.Attribute.layout_behavior;
+			global::Prism.Resource.Attribute.layout_collapseMode = global::Vocabulary.Droid.Resource.Attribute.layout_collapseMode;
+			global::Prism.Resource.Attribute.layout_collapseParallaxMultiplier = global::Vocabulary.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Prism.Resource.Attribute.layout_dodgeInsetEdges = global::Vocabulary.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Prism.Resource.Attribute.layout_insetEdge = global::Vocabulary.Droid.Resource.Attribute.layout_insetEdge;
+			global::Prism.Resource.Attribute.layout_keyline = global::Vocabulary.Droid.Resource.Attribute.layout_keyline;
+			global::Prism.Resource.Attribute.layout_scrollFlags = global::Vocabulary.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Prism.Resource.Attribute.layout_scrollInterpolator = global::Vocabulary.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Prism.Resource.Attribute.listChoiceBackgroundIndicator = global::Vocabulary.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Prism.Resource.Attribute.listDividerAlertDialog = global::Vocabulary.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Prism.Resource.Attribute.listItemLayout = global::Vocabulary.Droid.Resource.Attribute.listItemLayout;
+			global::Prism.Resource.Attribute.listLayout = global::Vocabulary.Droid.Resource.Attribute.listLayout;
+			global::Prism.Resource.Attribute.listMenuViewStyle = global::Vocabulary.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Prism.Resource.Attribute.listPopupWindowStyle = global::Vocabulary.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Prism.Resource.Attribute.listPreferredItemHeight = global::Vocabulary.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Prism.Resource.Attribute.listPreferredItemHeightLarge = global::Vocabulary.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Prism.Resource.Attribute.listPreferredItemHeightSmall = global::Vocabulary.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingLeft = global::Vocabulary.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Prism.Resource.Attribute.listPreferredItemPaddingRight = global::Vocabulary.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Prism.Resource.Attribute.logo = global::Vocabulary.Droid.Resource.Attribute.logo;
+			global::Prism.Resource.Attribute.logoDescription = global::Vocabulary.Droid.Resource.Attribute.logoDescription;
+			global::Prism.Resource.Attribute.maxActionInlineWidth = global::Vocabulary.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Prism.Resource.Attribute.maxButtonHeight = global::Vocabulary.Droid.Resource.Attribute.maxButtonHeight;
+			global::Prism.Resource.Attribute.measureWithLargestChild = global::Vocabulary.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Prism.Resource.Attribute.menu = global::Vocabulary.Droid.Resource.Attribute.menu;
+			global::Prism.Resource.Attribute.multiChoiceItemLayout = global::Vocabulary.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Prism.Resource.Attribute.navigationContentDescription = global::Vocabulary.Droid.Resource.Attribute.navigationContentDescription;
+			global::Prism.Resource.Attribute.navigationIcon = global::Vocabulary.Droid.Resource.Attribute.navigationIcon;
+			global::Prism.Resource.Attribute.navigationMode = global::Vocabulary.Droid.Resource.Attribute.navigationMode;
+			global::Prism.Resource.Attribute.numericModifiers = global::Vocabulary.Droid.Resource.Attribute.numericModifiers;
+			global::Prism.Resource.Attribute.overlapAnchor = global::Vocabulary.Droid.Resource.Attribute.overlapAnchor;
+			global::Prism.Resource.Attribute.paddingBottomNoButtons = global::Vocabulary.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Prism.Resource.Attribute.paddingEnd = global::Vocabulary.Droid.Resource.Attribute.paddingEnd;
+			global::Prism.Resource.Attribute.paddingStart = global::Vocabulary.Droid.Resource.Attribute.paddingStart;
+			global::Prism.Resource.Attribute.paddingTopNoTitle = global::Vocabulary.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Prism.Resource.Attribute.panelBackground = global::Vocabulary.Droid.Resource.Attribute.panelBackground;
+			global::Prism.Resource.Attribute.panelMenuListTheme = global::Vocabulary.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Prism.Resource.Attribute.panelMenuListWidth = global::Vocabulary.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Prism.Resource.Attribute.passwordToggleContentDescription = global::Vocabulary.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Prism.Resource.Attribute.passwordToggleDrawable = global::Vocabulary.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Prism.Resource.Attribute.passwordToggleEnabled = global::Vocabulary.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Prism.Resource.Attribute.passwordToggleTint = global::Vocabulary.Droid.Resource.Attribute.passwordToggleTint;
+			global::Prism.Resource.Attribute.passwordToggleTintMode = global::Vocabulary.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Prism.Resource.Attribute.popupMenuStyle = global::Vocabulary.Droid.Resource.Attribute.popupMenuStyle;
+			global::Prism.Resource.Attribute.popupTheme = global::Vocabulary.Droid.Resource.Attribute.popupTheme;
+			global::Prism.Resource.Attribute.popupWindowStyle = global::Vocabulary.Droid.Resource.Attribute.popupWindowStyle;
+			global::Prism.Resource.Attribute.preserveIconSpacing = global::Vocabulary.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Prism.Resource.Attribute.pressedTranslationZ = global::Vocabulary.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Prism.Resource.Attribute.progressBarPadding = global::Vocabulary.Droid.Resource.Attribute.progressBarPadding;
+			global::Prism.Resource.Attribute.progressBarStyle = global::Vocabulary.Droid.Resource.Attribute.progressBarStyle;
+			global::Prism.Resource.Attribute.queryBackground = global::Vocabulary.Droid.Resource.Attribute.queryBackground;
+			global::Prism.Resource.Attribute.queryHint = global::Vocabulary.Droid.Resource.Attribute.queryHint;
+			global::Prism.Resource.Attribute.radioButtonStyle = global::Vocabulary.Droid.Resource.Attribute.radioButtonStyle;
+			global::Prism.Resource.Attribute.ratingBarStyle = global::Vocabulary.Droid.Resource.Attribute.ratingBarStyle;
+			global::Prism.Resource.Attribute.ratingBarStyleIndicator = global::Vocabulary.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Prism.Resource.Attribute.ratingBarStyleSmall = global::Vocabulary.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Prism.Resource.Attribute.reverseLayout = global::Vocabulary.Droid.Resource.Attribute.reverseLayout;
+			global::Prism.Resource.Attribute.rippleColor = global::Vocabulary.Droid.Resource.Attribute.rippleColor;
+			global::Prism.Resource.Attribute.scrimAnimationDuration = global::Vocabulary.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Prism.Resource.Attribute.scrimVisibleHeightTrigger = global::Vocabulary.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Prism.Resource.Attribute.searchHintIcon = global::Vocabulary.Droid.Resource.Attribute.searchHintIcon;
+			global::Prism.Resource.Attribute.searchIcon = global::Vocabulary.Droid.Resource.Attribute.searchIcon;
+			global::Prism.Resource.Attribute.searchViewStyle = global::Vocabulary.Droid.Resource.Attribute.searchViewStyle;
+			global::Prism.Resource.Attribute.seekBarStyle = global::Vocabulary.Droid.Resource.Attribute.seekBarStyle;
+			global::Prism.Resource.Attribute.selectableItemBackground = global::Vocabulary.Droid.Resource.Attribute.selectableItemBackground;
+			global::Prism.Resource.Attribute.selectableItemBackgroundBorderless = global::Vocabulary.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Prism.Resource.Attribute.showAsAction = global::Vocabulary.Droid.Resource.Attribute.showAsAction;
+			global::Prism.Resource.Attribute.showDividers = global::Vocabulary.Droid.Resource.Attribute.showDividers;
+			global::Prism.Resource.Attribute.showText = global::Vocabulary.Droid.Resource.Attribute.showText;
+			global::Prism.Resource.Attribute.showTitle = global::Vocabulary.Droid.Resource.Attribute.showTitle;
+			global::Prism.Resource.Attribute.singleChoiceItemLayout = global::Vocabulary.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Prism.Resource.Attribute.spanCount = global::Vocabulary.Droid.Resource.Attribute.spanCount;
+			global::Prism.Resource.Attribute.spinBars = global::Vocabulary.Droid.Resource.Attribute.spinBars;
+			global::Prism.Resource.Attribute.spinnerDropDownItemStyle = global::Vocabulary.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Prism.Resource.Attribute.spinnerStyle = global::Vocabulary.Droid.Resource.Attribute.spinnerStyle;
+			global::Prism.Resource.Attribute.splitTrack = global::Vocabulary.Droid.Resource.Attribute.splitTrack;
+			global::Prism.Resource.Attribute.srcCompat = global::Vocabulary.Droid.Resource.Attribute.srcCompat;
+			global::Prism.Resource.Attribute.stackFromEnd = global::Vocabulary.Droid.Resource.Attribute.stackFromEnd;
+			global::Prism.Resource.Attribute.state_above_anchor = global::Vocabulary.Droid.Resource.Attribute.state_above_anchor;
+			global::Prism.Resource.Attribute.state_collapsed = global::Vocabulary.Droid.Resource.Attribute.state_collapsed;
+			global::Prism.Resource.Attribute.state_collapsible = global::Vocabulary.Droid.Resource.Attribute.state_collapsible;
+			global::Prism.Resource.Attribute.statusBarBackground = global::Vocabulary.Droid.Resource.Attribute.statusBarBackground;
+			global::Prism.Resource.Attribute.statusBarScrim = global::Vocabulary.Droid.Resource.Attribute.statusBarScrim;
+			global::Prism.Resource.Attribute.subMenuArrow = global::Vocabulary.Droid.Resource.Attribute.subMenuArrow;
+			global::Prism.Resource.Attribute.submitBackground = global::Vocabulary.Droid.Resource.Attribute.submitBackground;
+			global::Prism.Resource.Attribute.subtitle = global::Vocabulary.Droid.Resource.Attribute.subtitle;
+			global::Prism.Resource.Attribute.subtitleTextAppearance = global::Vocabulary.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Prism.Resource.Attribute.subtitleTextColor = global::Vocabulary.Droid.Resource.Attribute.subtitleTextColor;
+			global::Prism.Resource.Attribute.subtitleTextStyle = global::Vocabulary.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Prism.Resource.Attribute.suggestionRowLayout = global::Vocabulary.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Prism.Resource.Attribute.switchMinWidth = global::Vocabulary.Droid.Resource.Attribute.switchMinWidth;
+			global::Prism.Resource.Attribute.switchPadding = global::Vocabulary.Droid.Resource.Attribute.switchPadding;
+			global::Prism.Resource.Attribute.switchStyle = global::Vocabulary.Droid.Resource.Attribute.switchStyle;
+			global::Prism.Resource.Attribute.switchTextAppearance = global::Vocabulary.Droid.Resource.Attribute.switchTextAppearance;
+			global::Prism.Resource.Attribute.tabBackground = global::Vocabulary.Droid.Resource.Attribute.tabBackground;
+			global::Prism.Resource.Attribute.tabContentStart = global::Vocabulary.Droid.Resource.Attribute.tabContentStart;
+			global::Prism.Resource.Attribute.tabGravity = global::Vocabulary.Droid.Resource.Attribute.tabGravity;
+			global::Prism.Resource.Attribute.tabIndicatorColor = global::Vocabulary.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Prism.Resource.Attribute.tabIndicatorHeight = global::Vocabulary.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Prism.Resource.Attribute.tabMaxWidth = global::Vocabulary.Droid.Resource.Attribute.tabMaxWidth;
+			global::Prism.Resource.Attribute.tabMinWidth = global::Vocabulary.Droid.Resource.Attribute.tabMinWidth;
+			global::Prism.Resource.Attribute.tabMode = global::Vocabulary.Droid.Resource.Attribute.tabMode;
+			global::Prism.Resource.Attribute.tabPadding = global::Vocabulary.Droid.Resource.Attribute.tabPadding;
+			global::Prism.Resource.Attribute.tabPaddingBottom = global::Vocabulary.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Prism.Resource.Attribute.tabPaddingEnd = global::Vocabulary.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Prism.Resource.Attribute.tabPaddingStart = global::Vocabulary.Droid.Resource.Attribute.tabPaddingStart;
+			global::Prism.Resource.Attribute.tabPaddingTop = global::Vocabulary.Droid.Resource.Attribute.tabPaddingTop;
+			global::Prism.Resource.Attribute.tabSelectedTextColor = global::Vocabulary.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Prism.Resource.Attribute.tabTextAppearance = global::Vocabulary.Droid.Resource.Attribute.tabTextAppearance;
+			global::Prism.Resource.Attribute.tabTextColor = global::Vocabulary.Droid.Resource.Attribute.tabTextColor;
+			global::Prism.Resource.Attribute.textAllCaps = global::Vocabulary.Droid.Resource.Attribute.textAllCaps;
+			global::Prism.Resource.Attribute.textAppearanceLargePopupMenu = global::Vocabulary.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Prism.Resource.Attribute.textAppearanceListItem = global::Vocabulary.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Prism.Resource.Attribute.textAppearanceListItemSecondary = global::Vocabulary.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Prism.Resource.Attribute.textAppearanceListItemSmall = global::Vocabulary.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Prism.Resource.Attribute.textAppearancePopupMenuHeader = global::Vocabulary.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Prism.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Vocabulary.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Prism.Resource.Attribute.textAppearanceSearchResultTitle = global::Vocabulary.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Prism.Resource.Attribute.textAppearanceSmallPopupMenu = global::Vocabulary.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Prism.Resource.Attribute.textColorAlertDialogListItem = global::Vocabulary.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Prism.Resource.Attribute.textColorSearchUrl = global::Vocabulary.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Prism.Resource.Attribute.theme = global::Vocabulary.Droid.Resource.Attribute.theme;
+			global::Prism.Resource.Attribute.thickness = global::Vocabulary.Droid.Resource.Attribute.thickness;
+			global::Prism.Resource.Attribute.thumbTextPadding = global::Vocabulary.Droid.Resource.Attribute.thumbTextPadding;
+			global::Prism.Resource.Attribute.thumbTint = global::Vocabulary.Droid.Resource.Attribute.thumbTint;
+			global::Prism.Resource.Attribute.thumbTintMode = global::Vocabulary.Droid.Resource.Attribute.thumbTintMode;
+			global::Prism.Resource.Attribute.tickMark = global::Vocabulary.Droid.Resource.Attribute.tickMark;
+			global::Prism.Resource.Attribute.tickMarkTint = global::Vocabulary.Droid.Resource.Attribute.tickMarkTint;
+			global::Prism.Resource.Attribute.tickMarkTintMode = global::Vocabulary.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Prism.Resource.Attribute.tint = global::Vocabulary.Droid.Resource.Attribute.tint;
+			global::Prism.Resource.Attribute.tintMode = global::Vocabulary.Droid.Resource.Attribute.tintMode;
+			global::Prism.Resource.Attribute.title = global::Vocabulary.Droid.Resource.Attribute.title;
+			global::Prism.Resource.Attribute.titleEnabled = global::Vocabulary.Droid.Resource.Attribute.titleEnabled;
+			global::Prism.Resource.Attribute.titleMargin = global::Vocabulary.Droid.Resource.Attribute.titleMargin;
+			global::Prism.Resource.Attribute.titleMarginBottom = global::Vocabulary.Droid.Resource.Attribute.titleMarginBottom;
+			global::Prism.Resource.Attribute.titleMarginEnd = global::Vocabulary.Droid.Resource.Attribute.titleMarginEnd;
+			global::Prism.Resource.Attribute.titleMargins = global::Vocabulary.Droid.Resource.Attribute.titleMargins;
+			global::Prism.Resource.Attribute.titleMarginStart = global::Vocabulary.Droid.Resource.Attribute.titleMarginStart;
+			global::Prism.Resource.Attribute.titleMarginTop = global::Vocabulary.Droid.Resource.Attribute.titleMarginTop;
+			global::Prism.Resource.Attribute.titleTextAppearance = global::Vocabulary.Droid.Resource.Attribute.titleTextAppearance;
+			global::Prism.Resource.Attribute.titleTextColor = global::Vocabulary.Droid.Resource.Attribute.titleTextColor;
+			global::Prism.Resource.Attribute.titleTextStyle = global::Vocabulary.Droid.Resource.Attribute.titleTextStyle;
+			global::Prism.Resource.Attribute.toolbarId = global::Vocabulary.Droid.Resource.Attribute.toolbarId;
+			global::Prism.Resource.Attribute.toolbarNavigationButtonStyle = global::Vocabulary.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Prism.Resource.Attribute.toolbarStyle = global::Vocabulary.Droid.Resource.Attribute.toolbarStyle;
+			global::Prism.Resource.Attribute.tooltipForegroundColor = global::Vocabulary.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Prism.Resource.Attribute.tooltipFrameBackground = global::Vocabulary.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Prism.Resource.Attribute.tooltipText = global::Vocabulary.Droid.Resource.Attribute.tooltipText;
+			global::Prism.Resource.Attribute.track = global::Vocabulary.Droid.Resource.Attribute.track;
+			global::Prism.Resource.Attribute.trackTint = global::Vocabulary.Droid.Resource.Attribute.trackTint;
+			global::Prism.Resource.Attribute.trackTintMode = global::Vocabulary.Droid.Resource.Attribute.trackTintMode;
+			global::Prism.Resource.Attribute.useCompatPadding = global::Vocabulary.Droid.Resource.Attribute.useCompatPadding;
+			global::Prism.Resource.Attribute.voiceIcon = global::Vocabulary.Droid.Resource.Attribute.voiceIcon;
+			global::Prism.Resource.Attribute.windowActionBar = global::Vocabulary.Droid.Resource.Attribute.windowActionBar;
+			global::Prism.Resource.Attribute.windowActionBarOverlay = global::Vocabulary.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Prism.Resource.Attribute.windowActionModeOverlay = global::Vocabulary.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Prism.Resource.Attribute.windowFixedHeightMajor = global::Vocabulary.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Prism.Resource.Attribute.windowFixedHeightMinor = global::Vocabulary.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Prism.Resource.Attribute.windowFixedWidthMajor = global::Vocabulary.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Prism.Resource.Attribute.windowFixedWidthMinor = global::Vocabulary.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Prism.Resource.Attribute.windowMinWidthMajor = global::Vocabulary.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Prism.Resource.Attribute.windowMinWidthMinor = global::Vocabulary.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Prism.Resource.Attribute.windowNoTitle = global::Vocabulary.Droid.Resource.Attribute.windowNoTitle;
+			global::Prism.Resource.Boolean.abc_action_bar_embed_tabs = global::Vocabulary.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Prism.Resource.Boolean.abc_allow_stacked_button_bar = global::Vocabulary.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Prism.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Vocabulary.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Prism.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Vocabulary.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Prism.Resource.Color.abc_background_cache_hint_selector_material_light = global::Vocabulary.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Prism.Resource.Color.abc_btn_colored_borderless_text_material = global::Vocabulary.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Prism.Resource.Color.abc_btn_colored_text_material = global::Vocabulary.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Prism.Resource.Color.abc_color_highlight_material = global::Vocabulary.Droid.Resource.Color.abc_color_highlight_material;
+			global::Prism.Resource.Color.abc_hint_foreground_material_dark = global::Vocabulary.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Prism.Resource.Color.abc_hint_foreground_material_light = global::Vocabulary.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Prism.Resource.Color.abc_input_method_navigation_guard = global::Vocabulary.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Prism.Resource.Color.abc_primary_text_disable_only_material_dark = global::Vocabulary.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Prism.Resource.Color.abc_primary_text_disable_only_material_light = global::Vocabulary.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Prism.Resource.Color.abc_primary_text_material_dark = global::Vocabulary.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Prism.Resource.Color.abc_primary_text_material_light = global::Vocabulary.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Prism.Resource.Color.abc_search_url_text = global::Vocabulary.Droid.Resource.Color.abc_search_url_text;
+			global::Prism.Resource.Color.abc_search_url_text_normal = global::Vocabulary.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Prism.Resource.Color.abc_search_url_text_pressed = global::Vocabulary.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Prism.Resource.Color.abc_search_url_text_selected = global::Vocabulary.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Prism.Resource.Color.abc_secondary_text_material_dark = global::Vocabulary.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Prism.Resource.Color.abc_secondary_text_material_light = global::Vocabulary.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Prism.Resource.Color.abc_tint_btn_checkable = global::Vocabulary.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Prism.Resource.Color.abc_tint_default = global::Vocabulary.Droid.Resource.Color.abc_tint_default;
+			global::Prism.Resource.Color.abc_tint_edittext = global::Vocabulary.Droid.Resource.Color.abc_tint_edittext;
+			global::Prism.Resource.Color.abc_tint_seek_thumb = global::Vocabulary.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Prism.Resource.Color.abc_tint_spinner = global::Vocabulary.Droid.Resource.Color.abc_tint_spinner;
+			global::Prism.Resource.Color.abc_tint_switch_track = global::Vocabulary.Droid.Resource.Color.abc_tint_switch_track;
+			global::Prism.Resource.Color.accent_material_dark = global::Vocabulary.Droid.Resource.Color.accent_material_dark;
+			global::Prism.Resource.Color.accent_material_light = global::Vocabulary.Droid.Resource.Color.accent_material_light;
+			global::Prism.Resource.Color.background_floating_material_dark = global::Vocabulary.Droid.Resource.Color.background_floating_material_dark;
+			global::Prism.Resource.Color.background_floating_material_light = global::Vocabulary.Droid.Resource.Color.background_floating_material_light;
+			global::Prism.Resource.Color.background_material_dark = global::Vocabulary.Droid.Resource.Color.background_material_dark;
+			global::Prism.Resource.Color.background_material_light = global::Vocabulary.Droid.Resource.Color.background_material_light;
+			global::Prism.Resource.Color.bright_foreground_disabled_material_dark = global::Vocabulary.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Prism.Resource.Color.bright_foreground_disabled_material_light = global::Vocabulary.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Prism.Resource.Color.bright_foreground_inverse_material_dark = global::Vocabulary.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Prism.Resource.Color.bright_foreground_inverse_material_light = global::Vocabulary.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Prism.Resource.Color.bright_foreground_material_dark = global::Vocabulary.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Prism.Resource.Color.bright_foreground_material_light = global::Vocabulary.Droid.Resource.Color.bright_foreground_material_light;
+			global::Prism.Resource.Color.button_material_dark = global::Vocabulary.Droid.Resource.Color.button_material_dark;
+			global::Prism.Resource.Color.button_material_light = global::Vocabulary.Droid.Resource.Color.button_material_light;
+			global::Prism.Resource.Color.cardview_dark_background = global::Vocabulary.Droid.Resource.Color.cardview_dark_background;
+			global::Prism.Resource.Color.cardview_light_background = global::Vocabulary.Droid.Resource.Color.cardview_light_background;
+			global::Prism.Resource.Color.cardview_shadow_end_color = global::Vocabulary.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Prism.Resource.Color.cardview_shadow_start_color = global::Vocabulary.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Prism.Resource.Color.design_bottom_navigation_shadow_color = global::Vocabulary.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Prism.Resource.Color.design_error = global::Vocabulary.Droid.Resource.Color.design_error;
+			global::Prism.Resource.Color.design_fab_shadow_end_color = global::Vocabulary.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Prism.Resource.Color.design_fab_shadow_mid_color = global::Vocabulary.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Prism.Resource.Color.design_fab_shadow_start_color = global::Vocabulary.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Prism.Resource.Color.design_fab_stroke_end_inner_color = global::Vocabulary.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Prism.Resource.Color.design_fab_stroke_end_outer_color = global::Vocabulary.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Prism.Resource.Color.design_fab_stroke_top_inner_color = global::Vocabulary.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Prism.Resource.Color.design_fab_stroke_top_outer_color = global::Vocabulary.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Prism.Resource.Color.design_snackbar_background_color = global::Vocabulary.Droid.Resource.Color.design_snackbar_background_color;
+			global::Prism.Resource.Color.design_tint_password_toggle = global::Vocabulary.Droid.Resource.Color.design_tint_password_toggle;
+			global::Prism.Resource.Color.dim_foreground_disabled_material_dark = global::Vocabulary.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Prism.Resource.Color.dim_foreground_disabled_material_light = global::Vocabulary.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Prism.Resource.Color.dim_foreground_material_dark = global::Vocabulary.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Prism.Resource.Color.dim_foreground_material_light = global::Vocabulary.Droid.Resource.Color.dim_foreground_material_light;
+			global::Prism.Resource.Color.foreground_material_dark = global::Vocabulary.Droid.Resource.Color.foreground_material_dark;
+			global::Prism.Resource.Color.foreground_material_light = global::Vocabulary.Droid.Resource.Color.foreground_material_light;
+			global::Prism.Resource.Color.highlighted_text_material_dark = global::Vocabulary.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Prism.Resource.Color.highlighted_text_material_light = global::Vocabulary.Droid.Resource.Color.highlighted_text_material_light;
+			global::Prism.Resource.Color.material_blue_grey_800 = global::Vocabulary.Droid.Resource.Color.material_blue_grey_800;
+			global::Prism.Resource.Color.material_blue_grey_900 = global::Vocabulary.Droid.Resource.Color.material_blue_grey_900;
+			global::Prism.Resource.Color.material_blue_grey_950 = global::Vocabulary.Droid.Resource.Color.material_blue_grey_950;
+			global::Prism.Resource.Color.material_deep_teal_200 = global::Vocabulary.Droid.Resource.Color.material_deep_teal_200;
+			global::Prism.Resource.Color.material_deep_teal_500 = global::Vocabulary.Droid.Resource.Color.material_deep_teal_500;
+			global::Prism.Resource.Color.material_grey_100 = global::Vocabulary.Droid.Resource.Color.material_grey_100;
+			global::Prism.Resource.Color.material_grey_300 = global::Vocabulary.Droid.Resource.Color.material_grey_300;
+			global::Prism.Resource.Color.material_grey_50 = global::Vocabulary.Droid.Resource.Color.material_grey_50;
+			global::Prism.Resource.Color.material_grey_600 = global::Vocabulary.Droid.Resource.Color.material_grey_600;
+			global::Prism.Resource.Color.material_grey_800 = global::Vocabulary.Droid.Resource.Color.material_grey_800;
+			global::Prism.Resource.Color.material_grey_850 = global::Vocabulary.Droid.Resource.Color.material_grey_850;
+			global::Prism.Resource.Color.material_grey_900 = global::Vocabulary.Droid.Resource.Color.material_grey_900;
+			global::Prism.Resource.Color.notification_action_color_filter = global::Vocabulary.Droid.Resource.Color.notification_action_color_filter;
+			global::Prism.Resource.Color.notification_icon_bg_color = global::Vocabulary.Droid.Resource.Color.notification_icon_bg_color;
+			global::Prism.Resource.Color.notification_material_background_media_default_color = global::Vocabulary.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Prism.Resource.Color.primary_dark_material_dark = global::Vocabulary.Droid.Resource.Color.primary_dark_material_dark;
+			global::Prism.Resource.Color.primary_dark_material_light = global::Vocabulary.Droid.Resource.Color.primary_dark_material_light;
+			global::Prism.Resource.Color.primary_material_dark = global::Vocabulary.Droid.Resource.Color.primary_material_dark;
+			global::Prism.Resource.Color.primary_material_light = global::Vocabulary.Droid.Resource.Color.primary_material_light;
+			global::Prism.Resource.Color.primary_text_default_material_dark = global::Vocabulary.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Prism.Resource.Color.primary_text_default_material_light = global::Vocabulary.Droid.Resource.Color.primary_text_default_material_light;
+			global::Prism.Resource.Color.primary_text_disabled_material_dark = global::Vocabulary.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Prism.Resource.Color.primary_text_disabled_material_light = global::Vocabulary.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Prism.Resource.Color.ripple_material_dark = global::Vocabulary.Droid.Resource.Color.ripple_material_dark;
+			global::Prism.Resource.Color.ripple_material_light = global::Vocabulary.Droid.Resource.Color.ripple_material_light;
+			global::Prism.Resource.Color.secondary_text_default_material_dark = global::Vocabulary.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Prism.Resource.Color.secondary_text_default_material_light = global::Vocabulary.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Prism.Resource.Color.secondary_text_disabled_material_dark = global::Vocabulary.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Prism.Resource.Color.secondary_text_disabled_material_light = global::Vocabulary.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Prism.Resource.Color.switch_thumb_disabled_material_dark = global::Vocabulary.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Prism.Resource.Color.switch_thumb_disabled_material_light = global::Vocabulary.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Prism.Resource.Color.switch_thumb_material_dark = global::Vocabulary.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Prism.Resource.Color.switch_thumb_material_light = global::Vocabulary.Droid.Resource.Color.switch_thumb_material_light;
+			global::Prism.Resource.Color.switch_thumb_normal_material_dark = global::Vocabulary.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Prism.Resource.Color.switch_thumb_normal_material_light = global::Vocabulary.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Prism.Resource.Color.tooltip_background_dark = global::Vocabulary.Droid.Resource.Color.tooltip_background_dark;
+			global::Prism.Resource.Color.tooltip_background_light = global::Vocabulary.Droid.Resource.Color.tooltip_background_light;
+			global::Prism.Resource.Dimension.abc_action_bar_content_inset_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Prism.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Prism.Resource.Dimension.abc_action_bar_default_height_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Prism.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Prism.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Prism.Resource.Dimension.abc_action_bar_elevation_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Prism.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Prism.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Prism.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Prism.Resource.Dimension.abc_action_bar_stacked_max_height = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Prism.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Prism.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Prism.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_height_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_width_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Prism.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Vocabulary.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Prism.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Vocabulary.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Prism.Resource.Dimension.abc_button_inset_horizontal_material = global::Vocabulary.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Prism.Resource.Dimension.abc_button_inset_vertical_material = global::Vocabulary.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Prism.Resource.Dimension.abc_button_padding_horizontal_material = global::Vocabulary.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Prism.Resource.Dimension.abc_button_padding_vertical_material = global::Vocabulary.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Prism.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Vocabulary.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Prism.Resource.Dimension.abc_config_prefDialogWidth = global::Vocabulary.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Prism.Resource.Dimension.abc_control_corner_material = global::Vocabulary.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Prism.Resource.Dimension.abc_control_inset_material = global::Vocabulary.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Prism.Resource.Dimension.abc_control_padding_material = global::Vocabulary.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_height_major = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_height_minor = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_width_major = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Prism.Resource.Dimension.abc_dialog_fixed_width_minor = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Prism.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Prism.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Prism.Resource.Dimension.abc_dialog_min_width_major = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Prism.Resource.Dimension.abc_dialog_min_width_minor = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Prism.Resource.Dimension.abc_dialog_padding_material = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Prism.Resource.Dimension.abc_dialog_padding_top_material = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Prism.Resource.Dimension.abc_dialog_title_divider_material = global::Vocabulary.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Prism.Resource.Dimension.abc_disabled_alpha_material_dark = global::Vocabulary.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Prism.Resource.Dimension.abc_disabled_alpha_material_light = global::Vocabulary.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Prism.Resource.Dimension.abc_dropdownitem_icon_width = global::Vocabulary.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Prism.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Vocabulary.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Prism.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Vocabulary.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Vocabulary.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Vocabulary.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Prism.Resource.Dimension.abc_edit_text_inset_top_material = global::Vocabulary.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Prism.Resource.Dimension.abc_floating_window_z = global::Vocabulary.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Prism.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Vocabulary.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Prism.Resource.Dimension.abc_panel_menu_list_width = global::Vocabulary.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Prism.Resource.Dimension.abc_progress_bar_height_material = global::Vocabulary.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Prism.Resource.Dimension.abc_search_view_preferred_height = global::Vocabulary.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Prism.Resource.Dimension.abc_search_view_preferred_width = global::Vocabulary.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Prism.Resource.Dimension.abc_seekbar_track_background_height_material = global::Vocabulary.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Prism.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Vocabulary.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Prism.Resource.Dimension.abc_select_dialog_padding_start_material = global::Vocabulary.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Prism.Resource.Dimension.abc_switch_padding = global::Vocabulary.Droid.Resource.Dimension.abc_switch_padding;
+			global::Prism.Resource.Dimension.abc_text_size_body_1_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Prism.Resource.Dimension.abc_text_size_body_2_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Prism.Resource.Dimension.abc_text_size_button_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Prism.Resource.Dimension.abc_text_size_caption_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_1_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_2_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_3_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Prism.Resource.Dimension.abc_text_size_display_4_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Prism.Resource.Dimension.abc_text_size_headline_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Prism.Resource.Dimension.abc_text_size_large_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Prism.Resource.Dimension.abc_text_size_medium_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Prism.Resource.Dimension.abc_text_size_menu_header_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Prism.Resource.Dimension.abc_text_size_menu_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Prism.Resource.Dimension.abc_text_size_small_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Prism.Resource.Dimension.abc_text_size_subhead_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Prism.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Prism.Resource.Dimension.abc_text_size_title_material = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Prism.Resource.Dimension.abc_text_size_title_material_toolbar = global::Vocabulary.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Prism.Resource.Dimension.cardview_compat_inset_shadow = global::Vocabulary.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Prism.Resource.Dimension.cardview_default_elevation = global::Vocabulary.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Prism.Resource.Dimension.cardview_default_radius = global::Vocabulary.Droid.Resource.Dimension.cardview_default_radius;
+			global::Prism.Resource.Dimension.compat_button_inset_horizontal_material = global::Vocabulary.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Prism.Resource.Dimension.compat_button_inset_vertical_material = global::Vocabulary.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Prism.Resource.Dimension.compat_button_padding_horizontal_material = global::Vocabulary.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Prism.Resource.Dimension.compat_button_padding_vertical_material = global::Vocabulary.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Prism.Resource.Dimension.compat_control_corner_material = global::Vocabulary.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Prism.Resource.Dimension.design_appbar_elevation = global::Vocabulary.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Prism.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_active_text_size = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Prism.Resource.Dimension.design_bottom_navigation_elevation = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Prism.Resource.Dimension.design_bottom_navigation_height = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Prism.Resource.Dimension.design_bottom_navigation_item_max_width = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_item_min_width = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Prism.Resource.Dimension.design_bottom_navigation_margin = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Prism.Resource.Dimension.design_bottom_navigation_shadow_height = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Prism.Resource.Dimension.design_bottom_navigation_text_size = global::Vocabulary.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Prism.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Vocabulary.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Prism.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Vocabulary.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Prism.Resource.Dimension.design_fab_border_width = global::Vocabulary.Droid.Resource.Dimension.design_fab_border_width;
+			global::Prism.Resource.Dimension.design_fab_elevation = global::Vocabulary.Droid.Resource.Dimension.design_fab_elevation;
+			global::Prism.Resource.Dimension.design_fab_image_size = global::Vocabulary.Droid.Resource.Dimension.design_fab_image_size;
+			global::Prism.Resource.Dimension.design_fab_size_mini = global::Vocabulary.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Prism.Resource.Dimension.design_fab_size_normal = global::Vocabulary.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Prism.Resource.Dimension.design_fab_translation_z_pressed = global::Vocabulary.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Prism.Resource.Dimension.design_navigation_elevation = global::Vocabulary.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Prism.Resource.Dimension.design_navigation_icon_padding = global::Vocabulary.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Prism.Resource.Dimension.design_navigation_icon_size = global::Vocabulary.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Prism.Resource.Dimension.design_navigation_max_width = global::Vocabulary.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Prism.Resource.Dimension.design_navigation_padding_bottom = global::Vocabulary.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Prism.Resource.Dimension.design_navigation_separator_vertical_padding = global::Vocabulary.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Prism.Resource.Dimension.design_snackbar_action_inline_max_width = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Prism.Resource.Dimension.design_snackbar_background_corner_radius = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Prism.Resource.Dimension.design_snackbar_elevation = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Prism.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Prism.Resource.Dimension.design_snackbar_max_width = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Prism.Resource.Dimension.design_snackbar_min_width = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Prism.Resource.Dimension.design_snackbar_padding_horizontal = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Prism.Resource.Dimension.design_snackbar_padding_vertical = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Prism.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Prism.Resource.Dimension.design_snackbar_text_size = global::Vocabulary.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Prism.Resource.Dimension.design_tab_max_width = global::Vocabulary.Droid.Resource.Dimension.design_tab_max_width;
+			global::Prism.Resource.Dimension.design_tab_scrollable_min_width = global::Vocabulary.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Prism.Resource.Dimension.design_tab_text_size = global::Vocabulary.Droid.Resource.Dimension.design_tab_text_size;
+			global::Prism.Resource.Dimension.design_tab_text_size_2line = global::Vocabulary.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Prism.Resource.Dimension.disabled_alpha_material_dark = global::Vocabulary.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Prism.Resource.Dimension.disabled_alpha_material_light = global::Vocabulary.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Prism.Resource.Dimension.fastscroll_default_thickness = global::Vocabulary.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Prism.Resource.Dimension.fastscroll_margin = global::Vocabulary.Droid.Resource.Dimension.fastscroll_margin;
+			global::Prism.Resource.Dimension.fastscroll_minimum_range = global::Vocabulary.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Prism.Resource.Dimension.highlight_alpha_material_colored = global::Vocabulary.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Prism.Resource.Dimension.highlight_alpha_material_dark = global::Vocabulary.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Prism.Resource.Dimension.highlight_alpha_material_light = global::Vocabulary.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Prism.Resource.Dimension.hint_alpha_material_dark = global::Vocabulary.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Prism.Resource.Dimension.hint_alpha_material_light = global::Vocabulary.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Prism.Resource.Dimension.hint_pressed_alpha_material_dark = global::Vocabulary.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Prism.Resource.Dimension.hint_pressed_alpha_material_light = global::Vocabulary.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Prism.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Vocabulary.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Prism.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Vocabulary.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Prism.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Vocabulary.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Prism.Resource.Dimension.notification_action_icon_size = global::Vocabulary.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Prism.Resource.Dimension.notification_action_text_size = global::Vocabulary.Droid.Resource.Dimension.notification_action_text_size;
+			global::Prism.Resource.Dimension.notification_big_circle_margin = global::Vocabulary.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Prism.Resource.Dimension.notification_content_margin_start = global::Vocabulary.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Prism.Resource.Dimension.notification_large_icon_height = global::Vocabulary.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Prism.Resource.Dimension.notification_large_icon_width = global::Vocabulary.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Prism.Resource.Dimension.notification_main_column_padding_top = global::Vocabulary.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Prism.Resource.Dimension.notification_media_narrow_margin = global::Vocabulary.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Prism.Resource.Dimension.notification_right_icon_size = global::Vocabulary.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Prism.Resource.Dimension.notification_right_side_padding_top = global::Vocabulary.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Prism.Resource.Dimension.notification_small_icon_background_padding = global::Vocabulary.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Prism.Resource.Dimension.notification_small_icon_size_as_large = global::Vocabulary.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Prism.Resource.Dimension.notification_subtext_size = global::Vocabulary.Droid.Resource.Dimension.notification_subtext_size;
+			global::Prism.Resource.Dimension.notification_top_pad = global::Vocabulary.Droid.Resource.Dimension.notification_top_pad;
+			global::Prism.Resource.Dimension.notification_top_pad_large_text = global::Vocabulary.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Prism.Resource.Dimension.tooltip_corner_radius = global::Vocabulary.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Prism.Resource.Dimension.tooltip_horizontal_padding = global::Vocabulary.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Prism.Resource.Dimension.tooltip_margin = global::Vocabulary.Droid.Resource.Dimension.tooltip_margin;
+			global::Prism.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Vocabulary.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Prism.Resource.Dimension.tooltip_precise_anchor_threshold = global::Vocabulary.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Prism.Resource.Dimension.tooltip_vertical_padding = global::Vocabulary.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Prism.Resource.Dimension.tooltip_y_offset_non_touch = global::Vocabulary.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Prism.Resource.Dimension.tooltip_y_offset_touch = global::Vocabulary.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Prism.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_action_bar_item_background_material = global::Vocabulary.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Prism.Resource.Drawable.abc_btn_borderless_material = global::Vocabulary.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Prism.Resource.Drawable.abc_btn_check_material = global::Vocabulary.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Prism.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Vocabulary.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Prism.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Vocabulary.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Prism.Resource.Drawable.abc_btn_colored_material = global::Vocabulary.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Prism.Resource.Drawable.abc_btn_default_mtrl_shape = global::Vocabulary.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Prism.Resource.Drawable.abc_btn_radio_material = global::Vocabulary.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Prism.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Vocabulary.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Prism.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Vocabulary.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Prism.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Vocabulary.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Prism.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Vocabulary.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Prism.Resource.Drawable.abc_cab_background_internal_bg = global::Vocabulary.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Prism.Resource.Drawable.abc_cab_background_top_material = global::Vocabulary.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Prism.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_control_background_material = global::Vocabulary.Droid.Resource.Drawable.abc_control_background_material;
+			global::Prism.Resource.Drawable.abc_dialog_material_background = global::Vocabulary.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Prism.Resource.Drawable.abc_edit_text_material = global::Vocabulary.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Prism.Resource.Drawable.abc_ic_ab_back_material = global::Vocabulary.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Prism.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Vocabulary.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Prism.Resource.Drawable.abc_ic_clear_material = global::Vocabulary.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Prism.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_go_search_api_material = global::Vocabulary.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Prism.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_overflow_material = global::Vocabulary.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Prism.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_ic_search_api_material = global::Vocabulary.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Prism.Resource.Drawable.abc_ic_star_black_16dp = global::Vocabulary.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Prism.Resource.Drawable.abc_ic_star_black_36dp = global::Vocabulary.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Prism.Resource.Drawable.abc_ic_star_black_48dp = global::Vocabulary.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Prism.Resource.Drawable.abc_ic_star_half_black_16dp = global::Vocabulary.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Prism.Resource.Drawable.abc_ic_star_half_black_36dp = global::Vocabulary.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Prism.Resource.Drawable.abc_ic_star_half_black_48dp = global::Vocabulary.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Prism.Resource.Drawable.abc_ic_voice_search_api_material = global::Vocabulary.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Prism.Resource.Drawable.abc_item_background_holo_dark = global::Vocabulary.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Prism.Resource.Drawable.abc_item_background_holo_light = global::Vocabulary.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Prism.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_list_focused_holo = global::Vocabulary.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Prism.Resource.Drawable.abc_list_longpressed_holo = global::Vocabulary.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Prism.Resource.Drawable.abc_list_pressed_holo_dark = global::Vocabulary.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_pressed_holo_light = global::Vocabulary.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Vocabulary.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Vocabulary.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Vocabulary.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Vocabulary.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Prism.Resource.Drawable.abc_list_selector_holo_dark = global::Vocabulary.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Prism.Resource.Drawable.abc_list_selector_holo_light = global::Vocabulary.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Prism.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Vocabulary.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Prism.Resource.Drawable.abc_popup_background_mtrl_mult = global::Vocabulary.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Prism.Resource.Drawable.abc_ratingbar_indicator_material = global::Vocabulary.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Prism.Resource.Drawable.abc_ratingbar_material = global::Vocabulary.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Prism.Resource.Drawable.abc_ratingbar_small_material = global::Vocabulary.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Prism.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Vocabulary.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Prism.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Vocabulary.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Prism.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_seekbar_thumb_material = global::Vocabulary.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Prism.Resource.Drawable.abc_seekbar_tick_mark_material = global::Vocabulary.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Prism.Resource.Drawable.abc_seekbar_track_material = global::Vocabulary.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Prism.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Prism.Resource.Drawable.abc_spinner_textfield_background_material = global::Vocabulary.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Prism.Resource.Drawable.abc_switch_thumb_material = global::Vocabulary.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Prism.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_tab_indicator_material = global::Vocabulary.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Prism.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Vocabulary.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Prism.Resource.Drawable.abc_textfield_search_material = global::Vocabulary.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Prism.Resource.Drawable.abc_text_cursor_material = global::Vocabulary.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Prism.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Vocabulary.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Prism.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Vocabulary.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Prism.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Vocabulary.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Prism.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Vocabulary.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Prism.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Vocabulary.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Prism.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Vocabulary.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Prism.Resource.Drawable.abc_vector_test = global::Vocabulary.Droid.Resource.Drawable.abc_vector_test;
+			global::Prism.Resource.Drawable.avd_hide_password = global::Vocabulary.Droid.Resource.Drawable.avd_hide_password;
+			global::Prism.Resource.Drawable.avd_show_password = global::Vocabulary.Droid.Resource.Drawable.avd_show_password;
+			global::Prism.Resource.Drawable.design_bottom_navigation_item_background = global::Vocabulary.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Prism.Resource.Drawable.design_fab_background = global::Vocabulary.Droid.Resource.Drawable.design_fab_background;
+			global::Prism.Resource.Drawable.design_ic_visibility = global::Vocabulary.Droid.Resource.Drawable.design_ic_visibility;
+			global::Prism.Resource.Drawable.design_ic_visibility_off = global::Vocabulary.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Prism.Resource.Drawable.design_password_eye = global::Vocabulary.Droid.Resource.Drawable.design_password_eye;
+			global::Prism.Resource.Drawable.design_snackbar_background = global::Vocabulary.Droid.Resource.Drawable.design_snackbar_background;
+			global::Prism.Resource.Drawable.navigation_empty_icon = global::Vocabulary.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Prism.Resource.Drawable.notification_action_background = global::Vocabulary.Droid.Resource.Drawable.notification_action_background;
+			global::Prism.Resource.Drawable.notification_bg = global::Vocabulary.Droid.Resource.Drawable.notification_bg;
+			global::Prism.Resource.Drawable.notification_bg_low = global::Vocabulary.Droid.Resource.Drawable.notification_bg_low;
+			global::Prism.Resource.Drawable.notification_bg_low_normal = global::Vocabulary.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Prism.Resource.Drawable.notification_bg_low_pressed = global::Vocabulary.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Prism.Resource.Drawable.notification_bg_normal = global::Vocabulary.Droid.Resource.Drawable.notification_bg_normal;
+			global::Prism.Resource.Drawable.notification_bg_normal_pressed = global::Vocabulary.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Prism.Resource.Drawable.notification_icon_background = global::Vocabulary.Droid.Resource.Drawable.notification_icon_background;
+			global::Prism.Resource.Drawable.notification_template_icon_bg = global::Vocabulary.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Prism.Resource.Drawable.notification_template_icon_low_bg = global::Vocabulary.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Prism.Resource.Drawable.notification_tile_bg = global::Vocabulary.Droid.Resource.Drawable.notification_tile_bg;
+			global::Prism.Resource.Drawable.notify_panel_notification_icon_bg = global::Vocabulary.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Prism.Resource.Drawable.tooltip_frame_dark = global::Vocabulary.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Prism.Resource.Drawable.tooltip_frame_light = global::Vocabulary.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Prism.Resource.Id.action0 = global::Vocabulary.Droid.Resource.Id.action0;
+			global::Prism.Resource.Id.actions = global::Vocabulary.Droid.Resource.Id.actions;
+			global::Prism.Resource.Id.action_bar = global::Vocabulary.Droid.Resource.Id.action_bar;
+			global::Prism.Resource.Id.action_bar_activity_content = global::Vocabulary.Droid.Resource.Id.action_bar_activity_content;
+			global::Prism.Resource.Id.action_bar_container = global::Vocabulary.Droid.Resource.Id.action_bar_container;
+			global::Prism.Resource.Id.action_bar_root = global::Vocabulary.Droid.Resource.Id.action_bar_root;
+			global::Prism.Resource.Id.action_bar_spinner = global::Vocabulary.Droid.Resource.Id.action_bar_spinner;
+			global::Prism.Resource.Id.action_bar_subtitle = global::Vocabulary.Droid.Resource.Id.action_bar_subtitle;
+			global::Prism.Resource.Id.action_bar_title = global::Vocabulary.Droid.Resource.Id.action_bar_title;
+			global::Prism.Resource.Id.action_container = global::Vocabulary.Droid.Resource.Id.action_container;
+			global::Prism.Resource.Id.action_context_bar = global::Vocabulary.Droid.Resource.Id.action_context_bar;
+			global::Prism.Resource.Id.action_divider = global::Vocabulary.Droid.Resource.Id.action_divider;
+			global::Prism.Resource.Id.action_image = global::Vocabulary.Droid.Resource.Id.action_image;
+			global::Prism.Resource.Id.action_menu_divider = global::Vocabulary.Droid.Resource.Id.action_menu_divider;
+			global::Prism.Resource.Id.action_menu_presenter = global::Vocabulary.Droid.Resource.Id.action_menu_presenter;
+			global::Prism.Resource.Id.action_mode_bar = global::Vocabulary.Droid.Resource.Id.action_mode_bar;
+			global::Prism.Resource.Id.action_mode_bar_stub = global::Vocabulary.Droid.Resource.Id.action_mode_bar_stub;
+			global::Prism.Resource.Id.action_mode_close_button = global::Vocabulary.Droid.Resource.Id.action_mode_close_button;
+			global::Prism.Resource.Id.action_text = global::Vocabulary.Droid.Resource.Id.action_text;
+			global::Prism.Resource.Id.activity_chooser_view_content = global::Vocabulary.Droid.Resource.Id.activity_chooser_view_content;
+			global::Prism.Resource.Id.add = global::Vocabulary.Droid.Resource.Id.add;
+			global::Prism.Resource.Id.alertTitle = global::Vocabulary.Droid.Resource.Id.alertTitle;
+			global::Prism.Resource.Id.all = global::Vocabulary.Droid.Resource.Id.all;
+			global::Prism.Resource.Id.ALT = global::Vocabulary.Droid.Resource.Id.ALT;
+			global::Prism.Resource.Id.always = global::Vocabulary.Droid.Resource.Id.always;
+			global::Prism.Resource.Id.async = global::Vocabulary.Droid.Resource.Id.async;
+			global::Prism.Resource.Id.auto = global::Vocabulary.Droid.Resource.Id.auto;
+			global::Prism.Resource.Id.beginning = global::Vocabulary.Droid.Resource.Id.beginning;
+			global::Prism.Resource.Id.blocking = global::Vocabulary.Droid.Resource.Id.blocking;
+			global::Prism.Resource.Id.bottom = global::Vocabulary.Droid.Resource.Id.bottom;
+			global::Prism.Resource.Id.bottomtab_navarea = global::Vocabulary.Droid.Resource.Id.bottomtab_navarea;
+			global::Prism.Resource.Id.bottomtab_tabbar = global::Vocabulary.Droid.Resource.Id.bottomtab_tabbar;
+			global::Prism.Resource.Id.buttonPanel = global::Vocabulary.Droid.Resource.Id.buttonPanel;
+			global::Prism.Resource.Id.cancel_action = global::Vocabulary.Droid.Resource.Id.cancel_action;
+			global::Prism.Resource.Id.center = global::Vocabulary.Droid.Resource.Id.center;
+			global::Prism.Resource.Id.center_horizontal = global::Vocabulary.Droid.Resource.Id.center_horizontal;
+			global::Prism.Resource.Id.center_vertical = global::Vocabulary.Droid.Resource.Id.center_vertical;
+			global::Prism.Resource.Id.checkbox = global::Vocabulary.Droid.Resource.Id.checkbox;
+			global::Prism.Resource.Id.chronometer = global::Vocabulary.Droid.Resource.Id.chronometer;
+			global::Prism.Resource.Id.clip_horizontal = global::Vocabulary.Droid.Resource.Id.clip_horizontal;
+			global::Prism.Resource.Id.clip_vertical = global::Vocabulary.Droid.Resource.Id.clip_vertical;
+			global::Prism.Resource.Id.collapseActionView = global::Vocabulary.Droid.Resource.Id.collapseActionView;
+			global::Prism.Resource.Id.container = global::Vocabulary.Droid.Resource.Id.container;
+			global::Prism.Resource.Id.contentPanel = global::Vocabulary.Droid.Resource.Id.contentPanel;
+			global::Prism.Resource.Id.coordinator = global::Vocabulary.Droid.Resource.Id.coordinator;
+			global::Prism.Resource.Id.CTRL = global::Vocabulary.Droid.Resource.Id.CTRL;
+			global::Prism.Resource.Id.custom = global::Vocabulary.Droid.Resource.Id.custom;
+			global::Prism.Resource.Id.customPanel = global::Vocabulary.Droid.Resource.Id.customPanel;
+			global::Prism.Resource.Id.decor_content_parent = global::Vocabulary.Droid.Resource.Id.decor_content_parent;
+			global::Prism.Resource.Id.default_activity_button = global::Vocabulary.Droid.Resource.Id.default_activity_button;
+			global::Prism.Resource.Id.design_bottom_sheet = global::Vocabulary.Droid.Resource.Id.design_bottom_sheet;
+			global::Prism.Resource.Id.design_menu_item_action_area = global::Vocabulary.Droid.Resource.Id.design_menu_item_action_area;
+			global::Prism.Resource.Id.design_menu_item_action_area_stub = global::Vocabulary.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Prism.Resource.Id.design_menu_item_text = global::Vocabulary.Droid.Resource.Id.design_menu_item_text;
+			global::Prism.Resource.Id.design_navigation_view = global::Vocabulary.Droid.Resource.Id.design_navigation_view;
+			global::Prism.Resource.Id.disableHome = global::Vocabulary.Droid.Resource.Id.disableHome;
+			global::Prism.Resource.Id.edit_query = global::Vocabulary.Droid.Resource.Id.edit_query;
+			global::Prism.Resource.Id.end = global::Vocabulary.Droid.Resource.Id.end;
+			global::Prism.Resource.Id.end_padder = global::Vocabulary.Droid.Resource.Id.end_padder;
+			global::Prism.Resource.Id.enterAlways = global::Vocabulary.Droid.Resource.Id.enterAlways;
+			global::Prism.Resource.Id.enterAlwaysCollapsed = global::Vocabulary.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Prism.Resource.Id.exitUntilCollapsed = global::Vocabulary.Droid.Resource.Id.exitUntilCollapsed;
+			global::Prism.Resource.Id.expanded_menu = global::Vocabulary.Droid.Resource.Id.expanded_menu;
+			global::Prism.Resource.Id.expand_activities_button = global::Vocabulary.Droid.Resource.Id.expand_activities_button;
+			global::Prism.Resource.Id.fill = global::Vocabulary.Droid.Resource.Id.fill;
+			global::Prism.Resource.Id.fill_horizontal = global::Vocabulary.Droid.Resource.Id.fill_horizontal;
+			global::Prism.Resource.Id.fill_vertical = global::Vocabulary.Droid.Resource.Id.fill_vertical;
+			global::Prism.Resource.Id.@fixed = global::Vocabulary.Droid.Resource.Id.@fixed;
+			global::Prism.Resource.Id.flyoutcontent_appbar = global::Vocabulary.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Prism.Resource.Id.flyoutcontent_recycler = global::Vocabulary.Droid.Resource.Id.flyoutcontent_recycler;
+			global::Prism.Resource.Id.forever = global::Vocabulary.Droid.Resource.Id.forever;
+			global::Prism.Resource.Id.FUNCTION = global::Vocabulary.Droid.Resource.Id.FUNCTION;
+			global::Prism.Resource.Id.ghost_view = global::Vocabulary.Droid.Resource.Id.ghost_view;
+			global::Prism.Resource.Id.home = global::Vocabulary.Droid.Resource.Id.home;
+			global::Prism.Resource.Id.homeAsUp = global::Vocabulary.Droid.Resource.Id.homeAsUp;
+			global::Prism.Resource.Id.icon = global::Vocabulary.Droid.Resource.Id.icon;
+			global::Prism.Resource.Id.icon_group = global::Vocabulary.Droid.Resource.Id.icon_group;
+			global::Prism.Resource.Id.ifRoom = global::Vocabulary.Droid.Resource.Id.ifRoom;
+			global::Prism.Resource.Id.image = global::Vocabulary.Droid.Resource.Id.image;
+			global::Prism.Resource.Id.info = global::Vocabulary.Droid.Resource.Id.info;
+			global::Prism.Resource.Id.italic = global::Vocabulary.Droid.Resource.Id.italic;
+			global::Prism.Resource.Id.item_touch_helper_previous_elevation = global::Vocabulary.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Prism.Resource.Id.largeLabel = global::Vocabulary.Droid.Resource.Id.largeLabel;
+			global::Prism.Resource.Id.left = global::Vocabulary.Droid.Resource.Id.left;
+			global::Prism.Resource.Id.line1 = global::Vocabulary.Droid.Resource.Id.line1;
+			global::Prism.Resource.Id.line3 = global::Vocabulary.Droid.Resource.Id.line3;
+			global::Prism.Resource.Id.listMode = global::Vocabulary.Droid.Resource.Id.listMode;
+			global::Prism.Resource.Id.list_item = global::Vocabulary.Droid.Resource.Id.list_item;
+			global::Prism.Resource.Id.main_appbar = global::Vocabulary.Droid.Resource.Id.main_appbar;
+			global::Prism.Resource.Id.main_tablayout = global::Vocabulary.Droid.Resource.Id.main_tablayout;
+			global::Prism.Resource.Id.main_toolbar = global::Vocabulary.Droid.Resource.Id.main_toolbar;
+			global::Prism.Resource.Id.masked = global::Vocabulary.Droid.Resource.Id.masked;
+			global::Prism.Resource.Id.media_actions = global::Vocabulary.Droid.Resource.Id.media_actions;
+			global::Prism.Resource.Id.message = global::Vocabulary.Droid.Resource.Id.message;
+			global::Prism.Resource.Id.META = global::Vocabulary.Droid.Resource.Id.META;
+			global::Prism.Resource.Id.middle = global::Vocabulary.Droid.Resource.Id.middle;
+			global::Prism.Resource.Id.mini = global::Vocabulary.Droid.Resource.Id.mini;
+			global::Prism.Resource.Id.multiply = global::Vocabulary.Droid.Resource.Id.multiply;
+			global::Prism.Resource.Id.navigation_header_container = global::Vocabulary.Droid.Resource.Id.navigation_header_container;
+			global::Prism.Resource.Id.never = global::Vocabulary.Droid.Resource.Id.never;
+			global::Prism.Resource.Id.none = global::Vocabulary.Droid.Resource.Id.none;
+			global::Prism.Resource.Id.normal = global::Vocabulary.Droid.Resource.Id.normal;
+			global::Prism.Resource.Id.notification_background = global::Vocabulary.Droid.Resource.Id.notification_background;
+			global::Prism.Resource.Id.notification_main_column = global::Vocabulary.Droid.Resource.Id.notification_main_column;
+			global::Prism.Resource.Id.notification_main_column_container = global::Vocabulary.Droid.Resource.Id.notification_main_column_container;
+			global::Prism.Resource.Id.parallax = global::Vocabulary.Droid.Resource.Id.parallax;
+			global::Prism.Resource.Id.parentPanel = global::Vocabulary.Droid.Resource.Id.parentPanel;
+			global::Prism.Resource.Id.parent_matrix = global::Vocabulary.Droid.Resource.Id.parent_matrix;
+			global::Prism.Resource.Id.pin = global::Vocabulary.Droid.Resource.Id.pin;
+			global::Prism.Resource.Id.progress_circular = global::Vocabulary.Droid.Resource.Id.progress_circular;
+			global::Prism.Resource.Id.progress_horizontal = global::Vocabulary.Droid.Resource.Id.progress_horizontal;
+			global::Prism.Resource.Id.radio = global::Vocabulary.Droid.Resource.Id.radio;
+			global::Prism.Resource.Id.right = global::Vocabulary.Droid.Resource.Id.right;
+			global::Prism.Resource.Id.right_icon = global::Vocabulary.Droid.Resource.Id.right_icon;
+			global::Prism.Resource.Id.right_side = global::Vocabulary.Droid.Resource.Id.right_side;
+			global::Prism.Resource.Id.save_image_matrix = global::Vocabulary.Droid.Resource.Id.save_image_matrix;
+			global::Prism.Resource.Id.save_non_transition_alpha = global::Vocabulary.Droid.Resource.Id.save_non_transition_alpha;
+			global::Prism.Resource.Id.save_scale_type = global::Vocabulary.Droid.Resource.Id.save_scale_type;
+			global::Prism.Resource.Id.screen = global::Vocabulary.Droid.Resource.Id.screen;
+			global::Prism.Resource.Id.scroll = global::Vocabulary.Droid.Resource.Id.scroll;
+			global::Prism.Resource.Id.scrollable = global::Vocabulary.Droid.Resource.Id.scrollable;
+			global::Prism.Resource.Id.scrollIndicatorDown = global::Vocabulary.Droid.Resource.Id.scrollIndicatorDown;
+			global::Prism.Resource.Id.scrollIndicatorUp = global::Vocabulary.Droid.Resource.Id.scrollIndicatorUp;
+			global::Prism.Resource.Id.scrollView = global::Vocabulary.Droid.Resource.Id.scrollView;
+			global::Prism.Resource.Id.search_badge = global::Vocabulary.Droid.Resource.Id.search_badge;
+			global::Prism.Resource.Id.search_bar = global::Vocabulary.Droid.Resource.Id.search_bar;
+			global::Prism.Resource.Id.search_button = global::Vocabulary.Droid.Resource.Id.search_button;
+			global::Prism.Resource.Id.search_close_btn = global::Vocabulary.Droid.Resource.Id.search_close_btn;
+			global::Prism.Resource.Id.search_edit_frame = global::Vocabulary.Droid.Resource.Id.search_edit_frame;
+			global::Prism.Resource.Id.search_go_btn = global::Vocabulary.Droid.Resource.Id.search_go_btn;
+			global::Prism.Resource.Id.search_mag_icon = global::Vocabulary.Droid.Resource.Id.search_mag_icon;
+			global::Prism.Resource.Id.search_plate = global::Vocabulary.Droid.Resource.Id.search_plate;
+			global::Prism.Resource.Id.search_src_text = global::Vocabulary.Droid.Resource.Id.search_src_text;
+			global::Prism.Resource.Id.search_voice_btn = global::Vocabulary.Droid.Resource.Id.search_voice_btn;
+			global::Prism.Resource.Id.select_dialog_listview = global::Vocabulary.Droid.Resource.Id.select_dialog_listview;
+			global::Prism.Resource.Id.shellcontent_appbar = global::Vocabulary.Droid.Resource.Id.shellcontent_appbar;
+			global::Prism.Resource.Id.shellcontent_toolbar = global::Vocabulary.Droid.Resource.Id.shellcontent_toolbar;
+			global::Prism.Resource.Id.SHIFT = global::Vocabulary.Droid.Resource.Id.SHIFT;
+			global::Prism.Resource.Id.shortcut = global::Vocabulary.Droid.Resource.Id.shortcut;
+			global::Prism.Resource.Id.showCustom = global::Vocabulary.Droid.Resource.Id.showCustom;
+			global::Prism.Resource.Id.showHome = global::Vocabulary.Droid.Resource.Id.showHome;
+			global::Prism.Resource.Id.showTitle = global::Vocabulary.Droid.Resource.Id.showTitle;
+			global::Prism.Resource.Id.smallLabel = global::Vocabulary.Droid.Resource.Id.smallLabel;
+			global::Prism.Resource.Id.snackbar_action = global::Vocabulary.Droid.Resource.Id.snackbar_action;
+			global::Prism.Resource.Id.snackbar_text = global::Vocabulary.Droid.Resource.Id.snackbar_text;
+			global::Prism.Resource.Id.snap = global::Vocabulary.Droid.Resource.Id.snap;
+			global::Prism.Resource.Id.spacer = global::Vocabulary.Droid.Resource.Id.spacer;
+			global::Prism.Resource.Id.split_action_bar = global::Vocabulary.Droid.Resource.Id.split_action_bar;
+			global::Prism.Resource.Id.src_atop = global::Vocabulary.Droid.Resource.Id.src_atop;
+			global::Prism.Resource.Id.src_in = global::Vocabulary.Droid.Resource.Id.src_in;
+			global::Prism.Resource.Id.src_over = global::Vocabulary.Droid.Resource.Id.src_over;
+			global::Prism.Resource.Id.start = global::Vocabulary.Droid.Resource.Id.start;
+			global::Prism.Resource.Id.status_bar_latest_event_content = global::Vocabulary.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Prism.Resource.Id.submenuarrow = global::Vocabulary.Droid.Resource.Id.submenuarrow;
+			global::Prism.Resource.Id.submit_area = global::Vocabulary.Droid.Resource.Id.submit_area;
+			global::Prism.Resource.Id.SYM = global::Vocabulary.Droid.Resource.Id.SYM;
+			global::Prism.Resource.Id.tabMode = global::Vocabulary.Droid.Resource.Id.tabMode;
+			global::Prism.Resource.Id.tag_transition_group = global::Vocabulary.Droid.Resource.Id.tag_transition_group;
+			global::Prism.Resource.Id.text = global::Vocabulary.Droid.Resource.Id.text;
+			global::Prism.Resource.Id.text2 = global::Vocabulary.Droid.Resource.Id.text2;
+			global::Prism.Resource.Id.textinput_counter = global::Vocabulary.Droid.Resource.Id.textinput_counter;
+			global::Prism.Resource.Id.textinput_error = global::Vocabulary.Droid.Resource.Id.textinput_error;
+			global::Prism.Resource.Id.textSpacerNoButtons = global::Vocabulary.Droid.Resource.Id.textSpacerNoButtons;
+			global::Prism.Resource.Id.textSpacerNoTitle = global::Vocabulary.Droid.Resource.Id.textSpacerNoTitle;
+			global::Prism.Resource.Id.text_input_password_toggle = global::Vocabulary.Droid.Resource.Id.text_input_password_toggle;
+			global::Prism.Resource.Id.time = global::Vocabulary.Droid.Resource.Id.time;
+			global::Prism.Resource.Id.title = global::Vocabulary.Droid.Resource.Id.title;
+			global::Prism.Resource.Id.titleDividerNoCustom = global::Vocabulary.Droid.Resource.Id.titleDividerNoCustom;
+			global::Prism.Resource.Id.title_template = global::Vocabulary.Droid.Resource.Id.title_template;
+			global::Prism.Resource.Id.top = global::Vocabulary.Droid.Resource.Id.top;
+			global::Prism.Resource.Id.topPanel = global::Vocabulary.Droid.Resource.Id.topPanel;
+			global::Prism.Resource.Id.touch_outside = global::Vocabulary.Droid.Resource.Id.touch_outside;
+			global::Prism.Resource.Id.transition_current_scene = global::Vocabulary.Droid.Resource.Id.transition_current_scene;
+			global::Prism.Resource.Id.transition_layout_save = global::Vocabulary.Droid.Resource.Id.transition_layout_save;
+			global::Prism.Resource.Id.transition_position = global::Vocabulary.Droid.Resource.Id.transition_position;
+			global::Prism.Resource.Id.transition_scene_layoutid_cache = global::Vocabulary.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Prism.Resource.Id.transition_transform = global::Vocabulary.Droid.Resource.Id.transition_transform;
+			global::Prism.Resource.Id.uniform = global::Vocabulary.Droid.Resource.Id.uniform;
+			global::Prism.Resource.Id.up = global::Vocabulary.Droid.Resource.Id.up;
+			global::Prism.Resource.Id.useLogo = global::Vocabulary.Droid.Resource.Id.useLogo;
+			global::Prism.Resource.Id.view_offset_helper = global::Vocabulary.Droid.Resource.Id.view_offset_helper;
+			global::Prism.Resource.Id.visible = global::Vocabulary.Droid.Resource.Id.visible;
+			global::Prism.Resource.Id.withText = global::Vocabulary.Droid.Resource.Id.withText;
+			global::Prism.Resource.Id.wrap_content = global::Vocabulary.Droid.Resource.Id.wrap_content;
+			global::Prism.Resource.Integer.abc_config_activityDefaultDur = global::Vocabulary.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Prism.Resource.Integer.abc_config_activityShortDur = global::Vocabulary.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Prism.Resource.Integer.app_bar_elevation_anim_duration = global::Vocabulary.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Prism.Resource.Integer.bottom_sheet_slide_duration = global::Vocabulary.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Prism.Resource.Integer.cancel_button_image_alpha = global::Vocabulary.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Prism.Resource.Integer.config_tooltipAnimTime = global::Vocabulary.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Prism.Resource.Integer.design_snackbar_text_max_lines = global::Vocabulary.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Prism.Resource.Integer.hide_password_duration = global::Vocabulary.Droid.Resource.Integer.hide_password_duration;
+			global::Prism.Resource.Integer.show_password_duration = global::Vocabulary.Droid.Resource.Integer.show_password_duration;
+			global::Prism.Resource.Integer.status_bar_notification_info_maxnum = global::Vocabulary.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Prism.Resource.Layout.abc_action_bar_title_item = global::Vocabulary.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Prism.Resource.Layout.abc_action_bar_up_container = global::Vocabulary.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Prism.Resource.Layout.abc_action_menu_item_layout = global::Vocabulary.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Prism.Resource.Layout.abc_action_menu_layout = global::Vocabulary.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Prism.Resource.Layout.abc_action_mode_bar = global::Vocabulary.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Prism.Resource.Layout.abc_action_mode_close_item_material = global::Vocabulary.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Prism.Resource.Layout.abc_activity_chooser_view = global::Vocabulary.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Prism.Resource.Layout.abc_activity_chooser_view_list_item = global::Vocabulary.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Prism.Resource.Layout.abc_alert_dialog_button_bar_material = global::Vocabulary.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Prism.Resource.Layout.abc_alert_dialog_material = global::Vocabulary.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Prism.Resource.Layout.abc_alert_dialog_title_material = global::Vocabulary.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Prism.Resource.Layout.abc_dialog_title_material = global::Vocabulary.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Prism.Resource.Layout.abc_expanded_menu_layout = global::Vocabulary.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Prism.Resource.Layout.abc_list_menu_item_checkbox = global::Vocabulary.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Prism.Resource.Layout.abc_list_menu_item_icon = global::Vocabulary.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Prism.Resource.Layout.abc_list_menu_item_layout = global::Vocabulary.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Prism.Resource.Layout.abc_list_menu_item_radio = global::Vocabulary.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Prism.Resource.Layout.abc_popup_menu_header_item_layout = global::Vocabulary.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Prism.Resource.Layout.abc_popup_menu_item_layout = global::Vocabulary.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Prism.Resource.Layout.abc_screen_content_include = global::Vocabulary.Droid.Resource.Layout.abc_screen_content_include;
+			global::Prism.Resource.Layout.abc_screen_simple = global::Vocabulary.Droid.Resource.Layout.abc_screen_simple;
+			global::Prism.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Vocabulary.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Prism.Resource.Layout.abc_screen_toolbar = global::Vocabulary.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Prism.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Vocabulary.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Prism.Resource.Layout.abc_search_view = global::Vocabulary.Droid.Resource.Layout.abc_search_view;
+			global::Prism.Resource.Layout.abc_select_dialog_material = global::Vocabulary.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Prism.Resource.Layout.BottomTabLayout = global::Vocabulary.Droid.Resource.Layout.BottomTabLayout;
+			global::Prism.Resource.Layout.design_bottom_navigation_item = global::Vocabulary.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Prism.Resource.Layout.design_bottom_sheet_dialog = global::Vocabulary.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Prism.Resource.Layout.design_layout_snackbar = global::Vocabulary.Droid.Resource.Layout.design_layout_snackbar;
+			global::Prism.Resource.Layout.design_layout_snackbar_include = global::Vocabulary.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Prism.Resource.Layout.design_layout_tab_icon = global::Vocabulary.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Prism.Resource.Layout.design_layout_tab_text = global::Vocabulary.Droid.Resource.Layout.design_layout_tab_text;
+			global::Prism.Resource.Layout.design_menu_item_action_area = global::Vocabulary.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Prism.Resource.Layout.design_navigation_item = global::Vocabulary.Droid.Resource.Layout.design_navigation_item;
+			global::Prism.Resource.Layout.design_navigation_item_header = global::Vocabulary.Droid.Resource.Layout.design_navigation_item_header;
+			global::Prism.Resource.Layout.design_navigation_item_separator = global::Vocabulary.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Prism.Resource.Layout.design_navigation_item_subheader = global::Vocabulary.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Prism.Resource.Layout.design_navigation_menu = global::Vocabulary.Droid.Resource.Layout.design_navigation_menu;
+			global::Prism.Resource.Layout.design_navigation_menu_item = global::Vocabulary.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Prism.Resource.Layout.design_text_input_password_icon = global::Vocabulary.Droid.Resource.Layout.design_text_input_password_icon;
+			global::Prism.Resource.Layout.FlyoutContent = global::Vocabulary.Droid.Resource.Layout.FlyoutContent;
+			global::Prism.Resource.Layout.notification_action = global::Vocabulary.Droid.Resource.Layout.notification_action;
+			global::Prism.Resource.Layout.notification_action_tombstone = global::Vocabulary.Droid.Resource.Layout.notification_action_tombstone;
+			global::Prism.Resource.Layout.notification_media_action = global::Vocabulary.Droid.Resource.Layout.notification_media_action;
+			global::Prism.Resource.Layout.notification_media_cancel_action = global::Vocabulary.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Prism.Resource.Layout.notification_template_big_media = global::Vocabulary.Droid.Resource.Layout.notification_template_big_media;
+			global::Prism.Resource.Layout.notification_template_big_media_custom = global::Vocabulary.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Prism.Resource.Layout.notification_template_big_media_narrow = global::Vocabulary.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Prism.Resource.Layout.notification_template_big_media_narrow_custom = global::Vocabulary.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Prism.Resource.Layout.notification_template_custom_big = global::Vocabulary.Droid.Resource.Layout.notification_template_custom_big;
+			global::Prism.Resource.Layout.notification_template_icon_group = global::Vocabulary.Droid.Resource.Layout.notification_template_icon_group;
+			global::Prism.Resource.Layout.notification_template_lines_media = global::Vocabulary.Droid.Resource.Layout.notification_template_lines_media;
+			global::Prism.Resource.Layout.notification_template_media = global::Vocabulary.Droid.Resource.Layout.notification_template_media;
+			global::Prism.Resource.Layout.notification_template_media_custom = global::Vocabulary.Droid.Resource.Layout.notification_template_media_custom;
+			global::Prism.Resource.Layout.notification_template_part_chronometer = global::Vocabulary.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Prism.Resource.Layout.notification_template_part_time = global::Vocabulary.Droid.Resource.Layout.notification_template_part_time;
+			global::Prism.Resource.Layout.RootLayout = global::Vocabulary.Droid.Resource.Layout.RootLayout;
+			global::Prism.Resource.Layout.select_dialog_item_material = global::Vocabulary.Droid.Resource.Layout.select_dialog_item_material;
+			global::Prism.Resource.Layout.select_dialog_multichoice_material = global::Vocabulary.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Prism.Resource.Layout.select_dialog_singlechoice_material = global::Vocabulary.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Prism.Resource.Layout.ShellContent = global::Vocabulary.Droid.Resource.Layout.ShellContent;
+			global::Prism.Resource.Layout.support_simple_spinner_dropdown_item = global::Vocabulary.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Prism.Resource.String.abc_action_bar_home_description = global::Vocabulary.Droid.Resource.String.abc_action_bar_home_description;
+			global::Prism.Resource.String.abc_action_bar_up_description = global::Vocabulary.Droid.Resource.String.abc_action_bar_up_description;
+			global::Prism.Resource.String.abc_action_menu_overflow_description = global::Vocabulary.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Prism.Resource.String.abc_action_mode_done = global::Vocabulary.Droid.Resource.String.abc_action_mode_done;
+			global::Prism.Resource.String.abc_activitychooserview_choose_application = global::Vocabulary.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Prism.Resource.String.abc_activity_chooser_view_see_all = global::Vocabulary.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Prism.Resource.String.abc_capital_off = global::Vocabulary.Droid.Resource.String.abc_capital_off;
+			global::Prism.Resource.String.abc_capital_on = global::Vocabulary.Droid.Resource.String.abc_capital_on;
+			global::Prism.Resource.String.abc_font_family_body_1_material = global::Vocabulary.Droid.Resource.String.abc_font_family_body_1_material;
+			global::Prism.Resource.String.abc_font_family_body_2_material = global::Vocabulary.Droid.Resource.String.abc_font_family_body_2_material;
+			global::Prism.Resource.String.abc_font_family_button_material = global::Vocabulary.Droid.Resource.String.abc_font_family_button_material;
+			global::Prism.Resource.String.abc_font_family_caption_material = global::Vocabulary.Droid.Resource.String.abc_font_family_caption_material;
+			global::Prism.Resource.String.abc_font_family_display_1_material = global::Vocabulary.Droid.Resource.String.abc_font_family_display_1_material;
+			global::Prism.Resource.String.abc_font_family_display_2_material = global::Vocabulary.Droid.Resource.String.abc_font_family_display_2_material;
+			global::Prism.Resource.String.abc_font_family_display_3_material = global::Vocabulary.Droid.Resource.String.abc_font_family_display_3_material;
+			global::Prism.Resource.String.abc_font_family_display_4_material = global::Vocabulary.Droid.Resource.String.abc_font_family_display_4_material;
+			global::Prism.Resource.String.abc_font_family_headline_material = global::Vocabulary.Droid.Resource.String.abc_font_family_headline_material;
+			global::Prism.Resource.String.abc_font_family_menu_material = global::Vocabulary.Droid.Resource.String.abc_font_family_menu_material;
+			global::Prism.Resource.String.abc_font_family_subhead_material = global::Vocabulary.Droid.Resource.String.abc_font_family_subhead_material;
+			global::Prism.Resource.String.abc_font_family_title_material = global::Vocabulary.Droid.Resource.String.abc_font_family_title_material;
+			global::Prism.Resource.String.abc_searchview_description_clear = global::Vocabulary.Droid.Resource.String.abc_searchview_description_clear;
+			global::Prism.Resource.String.abc_searchview_description_query = global::Vocabulary.Droid.Resource.String.abc_searchview_description_query;
+			global::Prism.Resource.String.abc_searchview_description_search = global::Vocabulary.Droid.Resource.String.abc_searchview_description_search;
+			global::Prism.Resource.String.abc_searchview_description_submit = global::Vocabulary.Droid.Resource.String.abc_searchview_description_submit;
+			global::Prism.Resource.String.abc_searchview_description_voice = global::Vocabulary.Droid.Resource.String.abc_searchview_description_voice;
+			global::Prism.Resource.String.abc_search_hint = global::Vocabulary.Droid.Resource.String.abc_search_hint;
+			global::Prism.Resource.String.abc_shareactionprovider_share_with = global::Vocabulary.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Prism.Resource.String.abc_shareactionprovider_share_with_application = global::Vocabulary.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Prism.Resource.String.abc_toolbar_collapse_description = global::Vocabulary.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Prism.Resource.String.appbar_scrolling_view_behavior = global::Vocabulary.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Prism.Resource.String.bottom_sheet_behavior = global::Vocabulary.Droid.Resource.String.bottom_sheet_behavior;
+			global::Prism.Resource.String.character_counter_pattern = global::Vocabulary.Droid.Resource.String.character_counter_pattern;
+			global::Prism.Resource.String.password_toggle_content_description = global::Vocabulary.Droid.Resource.String.password_toggle_content_description;
+			global::Prism.Resource.String.path_password_eye = global::Vocabulary.Droid.Resource.String.path_password_eye;
+			global::Prism.Resource.String.path_password_eye_mask_strike_through = global::Vocabulary.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Prism.Resource.String.path_password_eye_mask_visible = global::Vocabulary.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Prism.Resource.String.path_password_strike_through = global::Vocabulary.Droid.Resource.String.path_password_strike_through;
+			global::Prism.Resource.String.search_menu_title = global::Vocabulary.Droid.Resource.String.search_menu_title;
+			global::Prism.Resource.String.status_bar_notification_info_overflow = global::Vocabulary.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Prism.Resource.Style.AlertDialog_AppCompat = global::Vocabulary.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Prism.Resource.Style.AlertDialog_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Prism.Resource.Style.Animation_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Prism.Resource.Style.Animation_AppCompat_DropDownUp = global::Vocabulary.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Prism.Resource.Style.Animation_AppCompat_Tooltip = global::Vocabulary.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Animation_Design_BottomSheetDialog = global::Vocabulary.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Prism.Resource.Style.Base_AlertDialog_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Prism.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Vocabulary.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Prism.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Vocabulary.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Base_CardView = global::Vocabulary.Droid.Resource.Style.Base_CardView;
+			global::Prism.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Prism.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Prism.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Prism.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Vocabulary.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Vocabulary.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Vocabulary.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Vocabulary.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Vocabulary.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Theme_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Prism.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Vocabulary.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Vocabulary.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_V22_Theme_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V23_Theme_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V26_Theme_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Vocabulary.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat = global::Vocabulary.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Vocabulary.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Vocabulary.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Vocabulary.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Vocabulary.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_EditText = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SearchView = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Spinner = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Vocabulary.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Prism.Resource.Style.Base_Widget_Design_TabLayout = global::Vocabulary.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Prism.Resource.Style.CardView = global::Vocabulary.Droid.Resource.Style.CardView;
+			global::Prism.Resource.Style.CardView_Dark = global::Vocabulary.Droid.Resource.Style.CardView_Dark;
+			global::Prism.Resource.Style.CardView_Light = global::Vocabulary.Droid.Resource.Style.CardView_Light;
+			global::Prism.Resource.Style.Platform_AppCompat = global::Vocabulary.Droid.Resource.Style.Platform_AppCompat;
+			global::Prism.Resource.Style.Platform_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Vocabulary.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Vocabulary.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_V21_AppCompat = global::Vocabulary.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Prism.Resource.Style.Platform_V21_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_V25_AppCompat = global::Vocabulary.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Prism.Resource.Style.Platform_V25_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Prism.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Vocabulary.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Vocabulary.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Prism.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Vocabulary.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Prism.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Vocabulary.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Vocabulary.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.TextAppearance_AppCompat = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Body1 = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Body2 = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Button = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Caption = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display1 = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display2 = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display3 = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Display4 = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Headline = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Large = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Medium = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Menu = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Small = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Subhead = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Title = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Prism.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Vocabulary.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Info = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Media = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Time = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Title = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Prism.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Vocabulary.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Prism.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Vocabulary.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Prism.Resource.Style.TextAppearance_Design_Counter = global::Vocabulary.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Prism.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Vocabulary.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Prism.Resource.Style.TextAppearance_Design_Error = global::Vocabulary.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Prism.Resource.Style.TextAppearance_Design_Hint = global::Vocabulary.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Prism.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Vocabulary.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Prism.Resource.Style.TextAppearance_Design_Tab = global::Vocabulary.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Vocabulary.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Vocabulary.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Prism.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Vocabulary.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat = global::Vocabulary.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Vocabulary.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Vocabulary.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Vocabulary.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Vocabulary.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.ThemeOverlay_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Prism.Resource.Style.Theme_AppCompat = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat;
+			global::Prism.Resource.Style.Theme_AppCompat_CompactMenu = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Prism.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Prism.Resource.Style.Theme_AppCompat_NoActionBar = global::Vocabulary.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Prism.Resource.Style.Theme_Design = global::Vocabulary.Droid.Resource.Style.Theme_Design;
+			global::Prism.Resource.Style.Theme_Design_BottomSheetDialog = global::Vocabulary.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_Design_Light = global::Vocabulary.Droid.Resource.Style.Theme_Design_Light;
+			global::Prism.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Vocabulary.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Prism.Resource.Style.Theme_Design_Light_NoActionBar = global::Vocabulary.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Prism.Resource.Style.Theme_Design_NoActionBar = global::Vocabulary.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_ActionMode = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Prism.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Prism.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Prism.Resource.Style.Widget_AppCompat_Button = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Prism.Resource.Style.Widget_AppCompat_ButtonBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Borderless = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Colored = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Prism.Resource.Style.Widget_AppCompat_Button_Small = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Prism.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Prism.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Prism.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_EditText = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Prism.Resource.Style.Widget_AppCompat_ImageButton = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_SearchView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Prism.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ListMenuView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Prism.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_ListView_Menu = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupMenu = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Prism.Resource.Style.Widget_AppCompat_PopupWindow = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Prism.Resource.Style.Widget_AppCompat_ProgressBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Prism.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Prism.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Prism.Resource.Style.Widget_AppCompat_SearchView = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Prism.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_SeekBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Prism.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Prism.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Prism.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Prism.Resource.Style.Widget_AppCompat_Toolbar = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Prism.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Vocabulary.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Prism.Resource.Style.Widget_Compat_NotificationActionContainer = global::Vocabulary.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Prism.Resource.Style.Widget_Compat_NotificationActionText = global::Vocabulary.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Prism.Resource.Style.Widget_Design_AppBarLayout = global::Vocabulary.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Prism.Resource.Style.Widget_Design_BottomNavigationView = global::Vocabulary.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Prism.Resource.Style.Widget_Design_BottomSheet_Modal = global::Vocabulary.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Prism.Resource.Style.Widget_Design_CollapsingToolbar = global::Vocabulary.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Prism.Resource.Style.Widget_Design_FloatingActionButton = global::Vocabulary.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Prism.Resource.Style.Widget_Design_NavigationView = global::Vocabulary.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Prism.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Vocabulary.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Prism.Resource.Style.Widget_Design_Snackbar = global::Vocabulary.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Prism.Resource.Style.Widget_Design_TabLayout = global::Vocabulary.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Prism.Resource.Style.Widget_Design_TextInputLayout = global::Vocabulary.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Prism.Resource.Styleable.ActionBar = global::Vocabulary.Droid.Resource.Styleable.ActionBar;
+			global::Prism.Resource.Styleable.ActionBarLayout = global::Vocabulary.Droid.Resource.Styleable.ActionBarLayout;
+			global::Prism.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Vocabulary.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Prism.Resource.Styleable.ActionBar_background = global::Vocabulary.Droid.Resource.Styleable.ActionBar_background;
+			global::Prism.Resource.Styleable.ActionBar_backgroundSplit = global::Vocabulary.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Prism.Resource.Styleable.ActionBar_backgroundStacked = global::Vocabulary.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetEnd = global::Vocabulary.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Vocabulary.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetLeft = global::Vocabulary.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetRight = global::Vocabulary.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetStart = global::Vocabulary.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Prism.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Vocabulary.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Prism.Resource.Styleable.ActionBar_customNavigationLayout = global::Vocabulary.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Prism.Resource.Styleable.ActionBar_displayOptions = global::Vocabulary.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Prism.Resource.Styleable.ActionBar_divider = global::Vocabulary.Droid.Resource.Styleable.ActionBar_divider;
+			global::Prism.Resource.Styleable.ActionBar_elevation = global::Vocabulary.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Prism.Resource.Styleable.ActionBar_height = global::Vocabulary.Droid.Resource.Styleable.ActionBar_height;
+			global::Prism.Resource.Styleable.ActionBar_hideOnContentScroll = global::Vocabulary.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Prism.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Vocabulary.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Prism.Resource.Styleable.ActionBar_homeLayout = global::Vocabulary.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Prism.Resource.Styleable.ActionBar_icon = global::Vocabulary.Droid.Resource.Styleable.ActionBar_icon;
+			global::Prism.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Vocabulary.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Prism.Resource.Styleable.ActionBar_itemPadding = global::Vocabulary.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Prism.Resource.Styleable.ActionBar_logo = global::Vocabulary.Droid.Resource.Styleable.ActionBar_logo;
+			global::Prism.Resource.Styleable.ActionBar_navigationMode = global::Vocabulary.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Prism.Resource.Styleable.ActionBar_popupTheme = global::Vocabulary.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Prism.Resource.Styleable.ActionBar_progressBarPadding = global::Vocabulary.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Prism.Resource.Styleable.ActionBar_progressBarStyle = global::Vocabulary.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Prism.Resource.Styleable.ActionBar_subtitle = global::Vocabulary.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Prism.Resource.Styleable.ActionBar_subtitleTextStyle = global::Vocabulary.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Prism.Resource.Styleable.ActionBar_title = global::Vocabulary.Droid.Resource.Styleable.ActionBar_title;
+			global::Prism.Resource.Styleable.ActionBar_titleTextStyle = global::Vocabulary.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Prism.Resource.Styleable.ActionMenuItemView = global::Vocabulary.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Prism.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Vocabulary.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Prism.Resource.Styleable.ActionMenuView = global::Vocabulary.Droid.Resource.Styleable.ActionMenuView;
+			global::Prism.Resource.Styleable.ActionMode = global::Vocabulary.Droid.Resource.Styleable.ActionMode;
+			global::Prism.Resource.Styleable.ActionMode_background = global::Vocabulary.Droid.Resource.Styleable.ActionMode_background;
+			global::Prism.Resource.Styleable.ActionMode_backgroundSplit = global::Vocabulary.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Prism.Resource.Styleable.ActionMode_closeItemLayout = global::Vocabulary.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Prism.Resource.Styleable.ActionMode_height = global::Vocabulary.Droid.Resource.Styleable.ActionMode_height;
+			global::Prism.Resource.Styleable.ActionMode_subtitleTextStyle = global::Vocabulary.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Prism.Resource.Styleable.ActionMode_titleTextStyle = global::Vocabulary.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Prism.Resource.Styleable.ActivityChooserView = global::Vocabulary.Droid.Resource.Styleable.ActivityChooserView;
+			global::Prism.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Vocabulary.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Prism.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Vocabulary.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Prism.Resource.Styleable.AlertDialog = global::Vocabulary.Droid.Resource.Styleable.AlertDialog;
+			global::Prism.Resource.Styleable.AlertDialog_android_layout = global::Vocabulary.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Prism.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Vocabulary.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Prism.Resource.Styleable.AlertDialog_listItemLayout = global::Vocabulary.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Prism.Resource.Styleable.AlertDialog_listLayout = global::Vocabulary.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Prism.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Vocabulary.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Prism.Resource.Styleable.AlertDialog_showTitle = global::Vocabulary.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Prism.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Vocabulary.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Prism.Resource.Styleable.AppBarLayout = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout;
+			global::Prism.Resource.Styleable.AppBarLayoutStates = global::Vocabulary.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Vocabulary.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Prism.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Vocabulary.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Prism.Resource.Styleable.AppBarLayout_android_background = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Prism.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Prism.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Prism.Resource.Styleable.AppBarLayout_elevation = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Prism.Resource.Styleable.AppBarLayout_expanded = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Prism.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Vocabulary.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Prism.Resource.Styleable.AppCompatImageView = global::Vocabulary.Droid.Resource.Styleable.AppCompatImageView;
+			global::Prism.Resource.Styleable.AppCompatImageView_android_src = global::Vocabulary.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Prism.Resource.Styleable.AppCompatImageView_srcCompat = global::Vocabulary.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Prism.Resource.Styleable.AppCompatImageView_tint = global::Vocabulary.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Prism.Resource.Styleable.AppCompatImageView_tintMode = global::Vocabulary.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Prism.Resource.Styleable.AppCompatSeekBar = global::Vocabulary.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Vocabulary.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMark = global::Vocabulary.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Vocabulary.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Prism.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Vocabulary.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Prism.Resource.Styleable.AppCompatTextHelper = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Prism.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Prism.Resource.Styleable.AppCompatTextView = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView;
+			global::Prism.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Prism.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Prism.Resource.Styleable.AppCompatTextView_fontFamily = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Prism.Resource.Styleable.AppCompatTextView_textAllCaps = global::Vocabulary.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Prism.Resource.Styleable.AppCompatTheme = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarSize = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Prism.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorAccent = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorError = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorPrimary = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Prism.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Prism.Resource.Styleable.AppCompatTheme_controlBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Prism.Resource.Styleable.AppCompatTheme_dialogTheme = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Prism.Resource.Styleable.AppCompatTheme_dividerVertical = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Prism.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Prism.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextColor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_editTextStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Prism.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Prism.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Prism.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Prism.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Prism.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Prism.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_switchStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Prism.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Prism.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Prism.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Prism.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Prism.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Prism.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionBar = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Prism.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Vocabulary.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Prism.Resource.Styleable.BottomNavigationView = global::Vocabulary.Droid.Resource.Styleable.BottomNavigationView;
+			global::Prism.Resource.Styleable.BottomNavigationView_elevation = global::Vocabulary.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Prism.Resource.Styleable.BottomNavigationView_itemBackground = global::Vocabulary.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Prism.Resource.Styleable.BottomNavigationView_itemIconTint = global::Vocabulary.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Prism.Resource.Styleable.BottomNavigationView_itemTextColor = global::Vocabulary.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Prism.Resource.Styleable.BottomNavigationView_menu = global::Vocabulary.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout = global::Vocabulary.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Vocabulary.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Vocabulary.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Prism.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Vocabulary.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Prism.Resource.Styleable.ButtonBarLayout = global::Vocabulary.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Prism.Resource.Styleable.ButtonBarLayout_allowStacking = global::Vocabulary.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Prism.Resource.Styleable.CardView = global::Vocabulary.Droid.Resource.Styleable.CardView;
+			global::Prism.Resource.Styleable.CardView_android_minHeight = global::Vocabulary.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Prism.Resource.Styleable.CardView_android_minWidth = global::Vocabulary.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Prism.Resource.Styleable.CardView_cardBackgroundColor = global::Vocabulary.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Prism.Resource.Styleable.CardView_cardCornerRadius = global::Vocabulary.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Prism.Resource.Styleable.CardView_cardElevation = global::Vocabulary.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Prism.Resource.Styleable.CardView_cardMaxElevation = global::Vocabulary.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Prism.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Vocabulary.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Prism.Resource.Styleable.CardView_cardUseCompatPadding = global::Vocabulary.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Prism.Resource.Styleable.CardView_contentPadding = global::Vocabulary.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Prism.Resource.Styleable.CardView_contentPaddingBottom = global::Vocabulary.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Prism.Resource.Styleable.CardView_contentPaddingLeft = global::Vocabulary.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Prism.Resource.Styleable.CardView_contentPaddingRight = global::Vocabulary.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Prism.Resource.Styleable.CardView_contentPaddingTop = global::Vocabulary.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_title = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Prism.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Vocabulary.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Prism.Resource.Styleable.ColorStateListItem = global::Vocabulary.Droid.Resource.Styleable.ColorStateListItem;
+			global::Prism.Resource.Styleable.ColorStateListItem_alpha = global::Vocabulary.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Prism.Resource.Styleable.ColorStateListItem_android_alpha = global::Vocabulary.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Prism.Resource.Styleable.ColorStateListItem_android_color = global::Vocabulary.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Prism.Resource.Styleable.CompoundButton = global::Vocabulary.Droid.Resource.Styleable.CompoundButton;
+			global::Prism.Resource.Styleable.CompoundButton_android_button = global::Vocabulary.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Prism.Resource.Styleable.CompoundButton_buttonTint = global::Vocabulary.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Prism.Resource.Styleable.CompoundButton_buttonTintMode = global::Vocabulary.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Prism.Resource.Styleable.CoordinatorLayout = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Prism.Resource.Styleable.CoordinatorLayout_keylines = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Prism.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Prism.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Vocabulary.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Prism.Resource.Styleable.DesignTheme = global::Vocabulary.Droid.Resource.Styleable.DesignTheme;
+			global::Prism.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Vocabulary.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Prism.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Vocabulary.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Prism.Resource.Styleable.DrawerArrowToggle = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_barLength = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_color = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_spinBars = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Prism.Resource.Styleable.DrawerArrowToggle_thickness = global::Vocabulary.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Prism.Resource.Styleable.FloatingActionButton = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton;
+			global::Prism.Resource.Styleable.FloatingActionButton_backgroundTint = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Prism.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Prism.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Prism.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Prism.Resource.Styleable.FloatingActionButton_borderWidth = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Prism.Resource.Styleable.FloatingActionButton_elevation = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Prism.Resource.Styleable.FloatingActionButton_fabSize = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Prism.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Prism.Resource.Styleable.FloatingActionButton_rippleColor = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Prism.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Vocabulary.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Prism.Resource.Styleable.FontFamily = global::Vocabulary.Droid.Resource.Styleable.FontFamily;
+			global::Prism.Resource.Styleable.FontFamilyFont = global::Vocabulary.Droid.Resource.Styleable.FontFamilyFont;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_font = global::Vocabulary.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Vocabulary.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Prism.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Vocabulary.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Prism.Resource.Styleable.FontFamilyFont_font = global::Vocabulary.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Prism.Resource.Styleable.FontFamilyFont_fontStyle = global::Vocabulary.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Prism.Resource.Styleable.FontFamilyFont_fontWeight = global::Vocabulary.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderAuthority = global::Vocabulary.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderCerts = global::Vocabulary.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Vocabulary.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Vocabulary.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderPackage = global::Vocabulary.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Prism.Resource.Styleable.FontFamily_fontProviderQuery = global::Vocabulary.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout = global::Vocabulary.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Vocabulary.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Vocabulary.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Prism.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Vocabulary.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Prism.Resource.Styleable.LinearLayoutCompat = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_divider = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Prism.Resource.Styleable.LinearLayoutCompat_showDividers = global::Vocabulary.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Prism.Resource.Styleable.ListPopupWindow = global::Vocabulary.Droid.Resource.Styleable.ListPopupWindow;
+			global::Prism.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Vocabulary.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Prism.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Vocabulary.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Prism.Resource.Styleable.MenuGroup = global::Vocabulary.Droid.Resource.Styleable.MenuGroup;
+			global::Prism.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Vocabulary.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Prism.Resource.Styleable.MenuGroup_android_enabled = global::Vocabulary.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Prism.Resource.Styleable.MenuGroup_android_id = global::Vocabulary.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Prism.Resource.Styleable.MenuGroup_android_menuCategory = global::Vocabulary.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Prism.Resource.Styleable.MenuGroup_android_orderInCategory = global::Vocabulary.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Prism.Resource.Styleable.MenuGroup_android_visible = global::Vocabulary.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Prism.Resource.Styleable.MenuItem = global::Vocabulary.Droid.Resource.Styleable.MenuItem;
+			global::Prism.Resource.Styleable.MenuItem_actionLayout = global::Vocabulary.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Prism.Resource.Styleable.MenuItem_actionProviderClass = global::Vocabulary.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Prism.Resource.Styleable.MenuItem_actionViewClass = global::Vocabulary.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Prism.Resource.Styleable.MenuItem_alphabeticModifiers = global::Vocabulary.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Prism.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Prism.Resource.Styleable.MenuItem_android_checkable = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Prism.Resource.Styleable.MenuItem_android_checked = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Prism.Resource.Styleable.MenuItem_android_enabled = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Prism.Resource.Styleable.MenuItem_android_icon = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Prism.Resource.Styleable.MenuItem_android_id = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Prism.Resource.Styleable.MenuItem_android_menuCategory = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Prism.Resource.Styleable.MenuItem_android_numericShortcut = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Prism.Resource.Styleable.MenuItem_android_onClick = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Prism.Resource.Styleable.MenuItem_android_orderInCategory = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Prism.Resource.Styleable.MenuItem_android_title = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Prism.Resource.Styleable.MenuItem_android_titleCondensed = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Prism.Resource.Styleable.MenuItem_android_visible = global::Vocabulary.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Prism.Resource.Styleable.MenuItem_contentDescription = global::Vocabulary.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Prism.Resource.Styleable.MenuItem_iconTint = global::Vocabulary.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Prism.Resource.Styleable.MenuItem_iconTintMode = global::Vocabulary.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Prism.Resource.Styleable.MenuItem_numericModifiers = global::Vocabulary.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Prism.Resource.Styleable.MenuItem_showAsAction = global::Vocabulary.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Prism.Resource.Styleable.MenuItem_tooltipText = global::Vocabulary.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Prism.Resource.Styleable.MenuView = global::Vocabulary.Droid.Resource.Styleable.MenuView;
+			global::Prism.Resource.Styleable.MenuView_android_headerBackground = global::Vocabulary.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Prism.Resource.Styleable.MenuView_android_horizontalDivider = global::Vocabulary.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Prism.Resource.Styleable.MenuView_android_itemBackground = global::Vocabulary.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Prism.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Vocabulary.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Prism.Resource.Styleable.MenuView_android_itemTextAppearance = global::Vocabulary.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Prism.Resource.Styleable.MenuView_android_verticalDivider = global::Vocabulary.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Prism.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Vocabulary.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Prism.Resource.Styleable.MenuView_preserveIconSpacing = global::Vocabulary.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Prism.Resource.Styleable.MenuView_subMenuArrow = global::Vocabulary.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Prism.Resource.Styleable.NavigationView = global::Vocabulary.Droid.Resource.Styleable.NavigationView;
+			global::Prism.Resource.Styleable.NavigationView_android_background = global::Vocabulary.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Prism.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Vocabulary.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Prism.Resource.Styleable.NavigationView_android_maxWidth = global::Vocabulary.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Prism.Resource.Styleable.NavigationView_elevation = global::Vocabulary.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Prism.Resource.Styleable.NavigationView_headerLayout = global::Vocabulary.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Prism.Resource.Styleable.NavigationView_itemBackground = global::Vocabulary.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Prism.Resource.Styleable.NavigationView_itemIconTint = global::Vocabulary.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Prism.Resource.Styleable.NavigationView_itemTextAppearance = global::Vocabulary.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Prism.Resource.Styleable.NavigationView_itemTextColor = global::Vocabulary.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Prism.Resource.Styleable.NavigationView_menu = global::Vocabulary.Droid.Resource.Styleable.NavigationView_menu;
+			global::Prism.Resource.Styleable.PopupWindow = global::Vocabulary.Droid.Resource.Styleable.PopupWindow;
+			global::Prism.Resource.Styleable.PopupWindowBackgroundState = global::Vocabulary.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Prism.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Vocabulary.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Prism.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Vocabulary.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Prism.Resource.Styleable.PopupWindow_android_popupBackground = global::Vocabulary.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Prism.Resource.Styleable.PopupWindow_overlapAnchor = global::Vocabulary.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Prism.Resource.Styleable.RecycleListView = global::Vocabulary.Droid.Resource.Styleable.RecycleListView;
+			global::Prism.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Vocabulary.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Prism.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Vocabulary.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Prism.Resource.Styleable.RecyclerView = global::Vocabulary.Droid.Resource.Styleable.RecyclerView;
+			global::Prism.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Prism.Resource.Styleable.RecyclerView_android_orientation = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Prism.Resource.Styleable.RecyclerView_layoutManager = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Prism.Resource.Styleable.RecyclerView_reverseLayout = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Prism.Resource.Styleable.RecyclerView_spanCount = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Prism.Resource.Styleable.RecyclerView_stackFromEnd = global::Vocabulary.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Prism.Resource.Styleable.ScrimInsetsFrameLayout = global::Vocabulary.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Prism.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Vocabulary.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Prism.Resource.Styleable.ScrollingViewBehavior_Layout = global::Vocabulary.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Prism.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Vocabulary.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Prism.Resource.Styleable.SearchView = global::Vocabulary.Droid.Resource.Styleable.SearchView;
+			global::Prism.Resource.Styleable.SearchView_android_focusable = global::Vocabulary.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Prism.Resource.Styleable.SearchView_android_imeOptions = global::Vocabulary.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Prism.Resource.Styleable.SearchView_android_inputType = global::Vocabulary.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Prism.Resource.Styleable.SearchView_android_maxWidth = global::Vocabulary.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Prism.Resource.Styleable.SearchView_closeIcon = global::Vocabulary.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Prism.Resource.Styleable.SearchView_commitIcon = global::Vocabulary.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Prism.Resource.Styleable.SearchView_defaultQueryHint = global::Vocabulary.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Prism.Resource.Styleable.SearchView_goIcon = global::Vocabulary.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Prism.Resource.Styleable.SearchView_iconifiedByDefault = global::Vocabulary.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Prism.Resource.Styleable.SearchView_layout = global::Vocabulary.Droid.Resource.Styleable.SearchView_layout;
+			global::Prism.Resource.Styleable.SearchView_queryBackground = global::Vocabulary.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Prism.Resource.Styleable.SearchView_queryHint = global::Vocabulary.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Prism.Resource.Styleable.SearchView_searchHintIcon = global::Vocabulary.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Prism.Resource.Styleable.SearchView_searchIcon = global::Vocabulary.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Prism.Resource.Styleable.SearchView_submitBackground = global::Vocabulary.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Prism.Resource.Styleable.SearchView_suggestionRowLayout = global::Vocabulary.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Prism.Resource.Styleable.SearchView_voiceIcon = global::Vocabulary.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Prism.Resource.Styleable.SnackbarLayout = global::Vocabulary.Droid.Resource.Styleable.SnackbarLayout;
+			global::Prism.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Vocabulary.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Prism.Resource.Styleable.SnackbarLayout_elevation = global::Vocabulary.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Prism.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Vocabulary.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Prism.Resource.Styleable.Spinner = global::Vocabulary.Droid.Resource.Styleable.Spinner;
+			global::Prism.Resource.Styleable.Spinner_android_dropDownWidth = global::Vocabulary.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Prism.Resource.Styleable.Spinner_android_entries = global::Vocabulary.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Prism.Resource.Styleable.Spinner_android_popupBackground = global::Vocabulary.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Prism.Resource.Styleable.Spinner_android_prompt = global::Vocabulary.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Prism.Resource.Styleable.Spinner_popupTheme = global::Vocabulary.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Prism.Resource.Styleable.SwitchCompat = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat;
+			global::Prism.Resource.Styleable.SwitchCompat_android_textOff = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Prism.Resource.Styleable.SwitchCompat_android_textOn = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Prism.Resource.Styleable.SwitchCompat_android_thumb = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Prism.Resource.Styleable.SwitchCompat_showText = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Prism.Resource.Styleable.SwitchCompat_splitTrack = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Prism.Resource.Styleable.SwitchCompat_switchMinWidth = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Prism.Resource.Styleable.SwitchCompat_switchPadding = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Prism.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTint = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Prism.Resource.Styleable.SwitchCompat_thumbTintMode = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Prism.Resource.Styleable.SwitchCompat_track = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Prism.Resource.Styleable.SwitchCompat_trackTint = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Prism.Resource.Styleable.SwitchCompat_trackTintMode = global::Vocabulary.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Prism.Resource.Styleable.TabItem = global::Vocabulary.Droid.Resource.Styleable.TabItem;
+			global::Prism.Resource.Styleable.TabItem_android_icon = global::Vocabulary.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Prism.Resource.Styleable.TabItem_android_layout = global::Vocabulary.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Prism.Resource.Styleable.TabItem_android_text = global::Vocabulary.Droid.Resource.Styleable.TabItem_android_text;
+			global::Prism.Resource.Styleable.TabLayout = global::Vocabulary.Droid.Resource.Styleable.TabLayout;
+			global::Prism.Resource.Styleable.TabLayout_tabBackground = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Prism.Resource.Styleable.TabLayout_tabContentStart = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Prism.Resource.Styleable.TabLayout_tabGravity = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorColor = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Prism.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Prism.Resource.Styleable.TabLayout_tabMaxWidth = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Prism.Resource.Styleable.TabLayout_tabMinWidth = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Prism.Resource.Styleable.TabLayout_tabMode = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Prism.Resource.Styleable.TabLayout_tabPadding = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingBottom = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingEnd = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingStart = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Prism.Resource.Styleable.TabLayout_tabPaddingTop = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Prism.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Prism.Resource.Styleable.TabLayout_tabTextAppearance = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Prism.Resource.Styleable.TabLayout_tabTextColor = global::Vocabulary.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Prism.Resource.Styleable.TextAppearance = global::Vocabulary.Droid.Resource.Styleable.TextAppearance;
+			global::Prism.Resource.Styleable.TextAppearance_android_fontFamily = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowColor = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowDx = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowDy = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Prism.Resource.Styleable.TextAppearance_android_shadowRadius = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColor = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColorHint = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Prism.Resource.Styleable.TextAppearance_android_textColorLink = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Prism.Resource.Styleable.TextAppearance_android_textSize = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Prism.Resource.Styleable.TextAppearance_android_textStyle = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Prism.Resource.Styleable.TextAppearance_android_typeface = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Prism.Resource.Styleable.TextAppearance_fontFamily = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Prism.Resource.Styleable.TextAppearance_textAllCaps = global::Vocabulary.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Prism.Resource.Styleable.TextInputLayout = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout;
+			global::Prism.Resource.Styleable.TextInputLayout_android_hint = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Prism.Resource.Styleable.TextInputLayout_android_textColorHint = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Prism.Resource.Styleable.TextInputLayout_counterEnabled = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_counterMaxLength = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Prism.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_errorEnabled = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_hintEnabled = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Prism.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Vocabulary.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Prism.Resource.Styleable.Toolbar = global::Vocabulary.Droid.Resource.Styleable.Toolbar;
+			global::Prism.Resource.Styleable.Toolbar_android_gravity = global::Vocabulary.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Prism.Resource.Styleable.Toolbar_android_minHeight = global::Vocabulary.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Prism.Resource.Styleable.Toolbar_buttonGravity = global::Vocabulary.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Prism.Resource.Styleable.Toolbar_collapseContentDescription = global::Vocabulary.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Prism.Resource.Styleable.Toolbar_collapseIcon = global::Vocabulary.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetEnd = global::Vocabulary.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Vocabulary.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetLeft = global::Vocabulary.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetRight = global::Vocabulary.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetStart = global::Vocabulary.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Prism.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Vocabulary.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Prism.Resource.Styleable.Toolbar_logo = global::Vocabulary.Droid.Resource.Styleable.Toolbar_logo;
+			global::Prism.Resource.Styleable.Toolbar_logoDescription = global::Vocabulary.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Prism.Resource.Styleable.Toolbar_maxButtonHeight = global::Vocabulary.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Prism.Resource.Styleable.Toolbar_navigationContentDescription = global::Vocabulary.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Prism.Resource.Styleable.Toolbar_navigationIcon = global::Vocabulary.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Prism.Resource.Styleable.Toolbar_popupTheme = global::Vocabulary.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Prism.Resource.Styleable.Toolbar_subtitle = global::Vocabulary.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Prism.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Vocabulary.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Prism.Resource.Styleable.Toolbar_subtitleTextColor = global::Vocabulary.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Prism.Resource.Styleable.Toolbar_title = global::Vocabulary.Droid.Resource.Styleable.Toolbar_title;
+			global::Prism.Resource.Styleable.Toolbar_titleMargin = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginBottom = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginEnd = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Prism.Resource.Styleable.Toolbar_titleMargins = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginStart = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Prism.Resource.Styleable.Toolbar_titleMarginTop = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Prism.Resource.Styleable.Toolbar_titleTextAppearance = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Prism.Resource.Styleable.Toolbar_titleTextColor = global::Vocabulary.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Prism.Resource.Styleable.View = global::Vocabulary.Droid.Resource.Styleable.View;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper = global::Vocabulary.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_android_background = global::Vocabulary.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Vocabulary.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Prism.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Vocabulary.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Prism.Resource.Styleable.ViewStubCompat = global::Vocabulary.Droid.Resource.Styleable.ViewStubCompat;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_id = global::Vocabulary.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Vocabulary.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Prism.Resource.Styleable.ViewStubCompat_android_layout = global::Vocabulary.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Prism.Resource.Styleable.View_android_focusable = global::Vocabulary.Droid.Resource.Styleable.View_android_focusable;
+			global::Prism.Resource.Styleable.View_android_theme = global::Vocabulary.Droid.Resource.Styleable.View_android_theme;
+			global::Prism.Resource.Styleable.View_paddingEnd = global::Vocabulary.Droid.Resource.Styleable.View_paddingEnd;
+			global::Prism.Resource.Styleable.View_paddingStart = global::Vocabulary.Droid.Resource.Styleable.View_paddingStart;
+			global::Prism.Resource.Styleable.View_theme = global::Vocabulary.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Vocabulary.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::Vocabulary.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Vocabulary.Droid.Resource.Attribute.font;
@@ -1715,6 +3676,7 @@ namespace Vocabulary.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::Vocabulary.Droid.Resource.Style.CardView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::Vocabulary.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::Vocabulary.Droid.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.NestedScrollBarStyle = global::Vocabulary.Droid.Resource.Style.NestedScrollBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::Vocabulary.Droid.Resource.Style.Platform_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::Vocabulary.Droid.Resource.Style.Platform_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::Vocabulary.Droid.Resource.Style.Platform_MaterialComponents;
@@ -7540,8 +9502,8 @@ namespace Vocabulary.Droid
 			// aapt resource value: 0x7F0E00C5
 			public const int CardView_Light = 2131624133;
 			
-			// aapt resource value: 0x7F0E01F7
-			public const int collectionViewStyle = 2131624439;
+			// aapt resource value: 0x7F0E01F8
+			public const int collectionViewStyle = 2131624440;
 			
 			// aapt resource value: 0x7F0E00C6
 			public const int MainTheme = 2131624134;
@@ -7550,913 +9512,916 @@ namespace Vocabulary.Droid
 			public const int MainTheme_Base = 2131624135;
 			
 			// aapt resource value: 0x7F0E00C8
-			public const int Platform_AppCompat = 2131624136;
+			public const int NestedScrollBarStyle = 2131624136;
 			
 			// aapt resource value: 0x7F0E00C9
-			public const int Platform_AppCompat_Light = 2131624137;
+			public const int Platform_AppCompat = 2131624137;
 			
 			// aapt resource value: 0x7F0E00CA
-			public const int Platform_MaterialComponents = 2131624138;
+			public const int Platform_AppCompat_Light = 2131624138;
 			
 			// aapt resource value: 0x7F0E00CB
-			public const int Platform_MaterialComponents_Dialog = 2131624139;
+			public const int Platform_MaterialComponents = 2131624139;
 			
 			// aapt resource value: 0x7F0E00CC
-			public const int Platform_MaterialComponents_Light = 2131624140;
+			public const int Platform_MaterialComponents_Dialog = 2131624140;
 			
 			// aapt resource value: 0x7F0E00CD
-			public const int Platform_MaterialComponents_Light_Dialog = 2131624141;
+			public const int Platform_MaterialComponents_Light = 2131624141;
 			
 			// aapt resource value: 0x7F0E00CE
-			public const int Platform_ThemeOverlay_AppCompat = 2131624142;
+			public const int Platform_MaterialComponents_Light_Dialog = 2131624142;
 			
 			// aapt resource value: 0x7F0E00CF
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624143;
+			public const int Platform_ThemeOverlay_AppCompat = 2131624143;
 			
 			// aapt resource value: 0x7F0E00D0
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624144;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624144;
 			
 			// aapt resource value: 0x7F0E00D1
-			public const int Platform_V21_AppCompat = 2131624145;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624145;
 			
 			// aapt resource value: 0x7F0E00D2
-			public const int Platform_V21_AppCompat_Light = 2131624146;
+			public const int Platform_V21_AppCompat = 2131624146;
 			
 			// aapt resource value: 0x7F0E00D3
-			public const int Platform_V25_AppCompat = 2131624147;
+			public const int Platform_V21_AppCompat_Light = 2131624147;
 			
 			// aapt resource value: 0x7F0E00D4
-			public const int Platform_V25_AppCompat_Light = 2131624148;
+			public const int Platform_V25_AppCompat = 2131624148;
 			
 			// aapt resource value: 0x7F0E00D5
-			public const int Platform_Widget_AppCompat_Spinner = 2131624149;
+			public const int Platform_V25_AppCompat_Light = 2131624149;
 			
 			// aapt resource value: 0x7F0E00D6
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624150;
+			public const int Platform_Widget_AppCompat_Spinner = 2131624150;
 			
 			// aapt resource value: 0x7F0E00D7
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624151;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624151;
 			
 			// aapt resource value: 0x7F0E00D8
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624152;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624152;
 			
 			// aapt resource value: 0x7F0E00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624153;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624153;
 			
 			// aapt resource value: 0x7F0E00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624154;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624154;
 			
 			// aapt resource value: 0x7F0E00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624155;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624155;
 			
 			// aapt resource value: 0x7F0E00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624156;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624156;
 			
 			// aapt resource value: 0x7F0E00DD
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624157;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624157;
 			
 			// aapt resource value: 0x7F0E00DE
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624158;
-			
-			// aapt resource value: 0x7F0E00E4
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624164;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624158;
 			
 			// aapt resource value: 0x7F0E00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624159;
-			
-			// aapt resource value: 0x7F0E00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624160;
-			
-			// aapt resource value: 0x7F0E00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624161;
-			
-			// aapt resource value: 0x7F0E00E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624162;
-			
-			// aapt resource value: 0x7F0E00E3
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624163;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624159;
 			
 			// aapt resource value: 0x7F0E00E5
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624165;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624165;
+			
+			// aapt resource value: 0x7F0E00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624160;
+			
+			// aapt resource value: 0x7F0E00E1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624161;
+			
+			// aapt resource value: 0x7F0E00E2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624162;
+			
+			// aapt resource value: 0x7F0E00E3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624163;
+			
+			// aapt resource value: 0x7F0E00E4
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624164;
 			
 			// aapt resource value: 0x7F0E00E6
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624166;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624166;
 			
 			// aapt resource value: 0x7F0E00E7
-			public const int TextAppearance_AppCompat = 2131624167;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624167;
 			
 			// aapt resource value: 0x7F0E00E8
-			public const int TextAppearance_AppCompat_Body1 = 2131624168;
+			public const int TextAppearance_AppCompat = 2131624168;
 			
 			// aapt resource value: 0x7F0E00E9
-			public const int TextAppearance_AppCompat_Body2 = 2131624169;
+			public const int TextAppearance_AppCompat_Body1 = 2131624169;
 			
 			// aapt resource value: 0x7F0E00EA
-			public const int TextAppearance_AppCompat_Button = 2131624170;
+			public const int TextAppearance_AppCompat_Body2 = 2131624170;
 			
 			// aapt resource value: 0x7F0E00EB
-			public const int TextAppearance_AppCompat_Caption = 2131624171;
+			public const int TextAppearance_AppCompat_Button = 2131624171;
 			
 			// aapt resource value: 0x7F0E00EC
-			public const int TextAppearance_AppCompat_Display1 = 2131624172;
+			public const int TextAppearance_AppCompat_Caption = 2131624172;
 			
 			// aapt resource value: 0x7F0E00ED
-			public const int TextAppearance_AppCompat_Display2 = 2131624173;
+			public const int TextAppearance_AppCompat_Display1 = 2131624173;
 			
 			// aapt resource value: 0x7F0E00EE
-			public const int TextAppearance_AppCompat_Display3 = 2131624174;
+			public const int TextAppearance_AppCompat_Display2 = 2131624174;
 			
 			// aapt resource value: 0x7F0E00EF
-			public const int TextAppearance_AppCompat_Display4 = 2131624175;
+			public const int TextAppearance_AppCompat_Display3 = 2131624175;
 			
 			// aapt resource value: 0x7F0E00F0
-			public const int TextAppearance_AppCompat_Headline = 2131624176;
+			public const int TextAppearance_AppCompat_Display4 = 2131624176;
 			
 			// aapt resource value: 0x7F0E00F1
-			public const int TextAppearance_AppCompat_Inverse = 2131624177;
+			public const int TextAppearance_AppCompat_Headline = 2131624177;
 			
 			// aapt resource value: 0x7F0E00F2
-			public const int TextAppearance_AppCompat_Large = 2131624178;
+			public const int TextAppearance_AppCompat_Inverse = 2131624178;
 			
 			// aapt resource value: 0x7F0E00F3
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131624179;
+			public const int TextAppearance_AppCompat_Large = 2131624179;
 			
 			// aapt resource value: 0x7F0E00F4
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624180;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131624180;
 			
 			// aapt resource value: 0x7F0E00F5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624181;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624181;
 			
 			// aapt resource value: 0x7F0E00F6
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624182;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624182;
 			
 			// aapt resource value: 0x7F0E00F7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624183;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624183;
 			
 			// aapt resource value: 0x7F0E00F8
-			public const int TextAppearance_AppCompat_Medium = 2131624184;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624184;
 			
 			// aapt resource value: 0x7F0E00F9
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624185;
+			public const int TextAppearance_AppCompat_Medium = 2131624185;
 			
 			// aapt resource value: 0x7F0E00FA
-			public const int TextAppearance_AppCompat_Menu = 2131624186;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624186;
 			
 			// aapt resource value: 0x7F0E00FB
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624187;
+			public const int TextAppearance_AppCompat_Menu = 2131624187;
 			
 			// aapt resource value: 0x7F0E00FC
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624188;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624188;
 			
 			// aapt resource value: 0x7F0E00FD
-			public const int TextAppearance_AppCompat_Small = 2131624189;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624189;
 			
 			// aapt resource value: 0x7F0E00FE
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131624190;
+			public const int TextAppearance_AppCompat_Small = 2131624190;
 			
 			// aapt resource value: 0x7F0E00FF
-			public const int TextAppearance_AppCompat_Subhead = 2131624191;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131624191;
 			
 			// aapt resource value: 0x7F0E0100
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624192;
+			public const int TextAppearance_AppCompat_Subhead = 2131624192;
 			
 			// aapt resource value: 0x7F0E0101
-			public const int TextAppearance_AppCompat_Title = 2131624193;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624193;
 			
 			// aapt resource value: 0x7F0E0102
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131624194;
+			public const int TextAppearance_AppCompat_Title = 2131624194;
 			
 			// aapt resource value: 0x7F0E0103
-			public const int TextAppearance_AppCompat_Tooltip = 2131624195;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131624195;
 			
 			// aapt resource value: 0x7F0E0104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624196;
+			public const int TextAppearance_AppCompat_Tooltip = 2131624196;
 			
 			// aapt resource value: 0x7F0E0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624197;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624197;
 			
 			// aapt resource value: 0x7F0E0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624198;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624198;
 			
 			// aapt resource value: 0x7F0E0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624199;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624199;
 			
 			// aapt resource value: 0x7F0E0108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624200;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624200;
 			
 			// aapt resource value: 0x7F0E0109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624201;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624201;
 			
 			// aapt resource value: 0x7F0E010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624202;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624202;
 			
 			// aapt resource value: 0x7F0E010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624203;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624203;
 			
 			// aapt resource value: 0x7F0E010C
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624204;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624204;
 			
 			// aapt resource value: 0x7F0E010D
-			public const int TextAppearance_AppCompat_Widget_Button = 2131624205;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624205;
 			
 			// aapt resource value: 0x7F0E010E
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624206;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131624206;
 			
 			// aapt resource value: 0x7F0E010F
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624207;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624207;
 			
 			// aapt resource value: 0x7F0E0110
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624208;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624208;
 			
 			// aapt resource value: 0x7F0E0111
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624209;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624209;
 			
 			// aapt resource value: 0x7F0E0112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624210;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624210;
 			
 			// aapt resource value: 0x7F0E0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624211;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624211;
 			
 			// aapt resource value: 0x7F0E0114
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624212;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624212;
 			
 			// aapt resource value: 0x7F0E0115
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131624213;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624213;
 			
 			// aapt resource value: 0x7F0E0116
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624214;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131624214;
 			
 			// aapt resource value: 0x7F0E0117
-			public const int TextAppearance_Compat_Notification = 2131624215;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624215;
 			
 			// aapt resource value: 0x7F0E0118
-			public const int TextAppearance_Compat_Notification_Info = 2131624216;
+			public const int TextAppearance_Compat_Notification = 2131624216;
 			
 			// aapt resource value: 0x7F0E0119
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131624217;
+			public const int TextAppearance_Compat_Notification_Info = 2131624217;
 			
 			// aapt resource value: 0x7F0E011A
-			public const int TextAppearance_Compat_Notification_Line2 = 2131624218;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131624218;
 			
 			// aapt resource value: 0x7F0E011B
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624219;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131624219;
 			
 			// aapt resource value: 0x7F0E011C
-			public const int TextAppearance_Compat_Notification_Media = 2131624220;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624220;
 			
 			// aapt resource value: 0x7F0E011D
-			public const int TextAppearance_Compat_Notification_Time = 2131624221;
+			public const int TextAppearance_Compat_Notification_Media = 2131624221;
 			
 			// aapt resource value: 0x7F0E011E
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131624222;
+			public const int TextAppearance_Compat_Notification_Time = 2131624222;
 			
 			// aapt resource value: 0x7F0E011F
-			public const int TextAppearance_Compat_Notification_Title = 2131624223;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131624223;
 			
 			// aapt resource value: 0x7F0E0120
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131624224;
+			public const int TextAppearance_Compat_Notification_Title = 2131624224;
 			
 			// aapt resource value: 0x7F0E0121
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624225;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131624225;
 			
 			// aapt resource value: 0x7F0E0122
-			public const int TextAppearance_Design_Counter = 2131624226;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624226;
 			
 			// aapt resource value: 0x7F0E0123
-			public const int TextAppearance_Design_Counter_Overflow = 2131624227;
+			public const int TextAppearance_Design_Counter = 2131624227;
 			
 			// aapt resource value: 0x7F0E0124
-			public const int TextAppearance_Design_Error = 2131624228;
+			public const int TextAppearance_Design_Counter_Overflow = 2131624228;
 			
 			// aapt resource value: 0x7F0E0125
-			public const int TextAppearance_Design_HelperText = 2131624229;
+			public const int TextAppearance_Design_Error = 2131624229;
 			
 			// aapt resource value: 0x7F0E0126
-			public const int TextAppearance_Design_Hint = 2131624230;
+			public const int TextAppearance_Design_HelperText = 2131624230;
 			
 			// aapt resource value: 0x7F0E0127
-			public const int TextAppearance_Design_Snackbar_Message = 2131624231;
+			public const int TextAppearance_Design_Hint = 2131624231;
 			
 			// aapt resource value: 0x7F0E0128
-			public const int TextAppearance_Design_Tab = 2131624232;
+			public const int TextAppearance_Design_Snackbar_Message = 2131624232;
 			
 			// aapt resource value: 0x7F0E0129
-			public const int TextAppearance_MaterialComponents_Body1 = 2131624233;
+			public const int TextAppearance_Design_Tab = 2131624233;
 			
 			// aapt resource value: 0x7F0E012A
-			public const int TextAppearance_MaterialComponents_Body2 = 2131624234;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131624234;
 			
 			// aapt resource value: 0x7F0E012B
-			public const int TextAppearance_MaterialComponents_Button = 2131624235;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131624235;
 			
 			// aapt resource value: 0x7F0E012C
-			public const int TextAppearance_MaterialComponents_Caption = 2131624236;
+			public const int TextAppearance_MaterialComponents_Button = 2131624236;
 			
 			// aapt resource value: 0x7F0E012D
-			public const int TextAppearance_MaterialComponents_Chip = 2131624237;
+			public const int TextAppearance_MaterialComponents_Caption = 2131624237;
 			
 			// aapt resource value: 0x7F0E012E
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131624238;
+			public const int TextAppearance_MaterialComponents_Chip = 2131624238;
 			
 			// aapt resource value: 0x7F0E012F
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131624239;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131624239;
 			
 			// aapt resource value: 0x7F0E0130
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131624240;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131624240;
 			
 			// aapt resource value: 0x7F0E0131
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131624241;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131624241;
 			
 			// aapt resource value: 0x7F0E0132
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131624242;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131624242;
 			
 			// aapt resource value: 0x7F0E0133
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131624243;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131624243;
 			
 			// aapt resource value: 0x7F0E0134
-			public const int TextAppearance_MaterialComponents_Overline = 2131624244;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131624244;
 			
 			// aapt resource value: 0x7F0E0135
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624245;
+			public const int TextAppearance_MaterialComponents_Overline = 2131624245;
 			
 			// aapt resource value: 0x7F0E0136
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624246;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624246;
 			
 			// aapt resource value: 0x7F0E0137
-			public const int TextAppearance_MaterialComponents_Tab = 2131624247;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624247;
 			
 			// aapt resource value: 0x7F0E0138
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624248;
+			public const int TextAppearance_MaterialComponents_Tab = 2131624248;
 			
 			// aapt resource value: 0x7F0E0139
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624249;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624249;
 			
 			// aapt resource value: 0x7F0E013A
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624250;
-			
-			// aapt resource value: 0x7F0E016B
-			public const int ThemeOverlay_AppCompat = 2131624299;
-			
-			// aapt resource value: 0x7F0E016C
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131624300;
-			
-			// aapt resource value: 0x7F0E016D
-			public const int ThemeOverlay_AppCompat_Dark = 2131624301;
-			
-			// aapt resource value: 0x7F0E016E
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624302;
-			
-			// aapt resource value: 0x7F0E016F
-			public const int ThemeOverlay_AppCompat_Dialog = 2131624303;
-			
-			// aapt resource value: 0x7F0E0170
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624304;
-			
-			// aapt resource value: 0x7F0E0171
-			public const int ThemeOverlay_AppCompat_Light = 2131624305;
-			
-			// aapt resource value: 0x7F0E0172
-			public const int ThemeOverlay_MaterialComponents = 2131624306;
-			
-			// aapt resource value: 0x7F0E0173
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624307;
-			
-			// aapt resource value: 0x7F0E0174
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131624308;
-			
-			// aapt resource value: 0x7F0E0175
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624309;
-			
-			// aapt resource value: 0x7F0E0176
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624310;
-			
-			// aapt resource value: 0x7F0E0177
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624311;
-			
-			// aapt resource value: 0x7F0E0178
-			public const int ThemeOverlay_MaterialComponents_Light = 2131624312;
-			
-			// aapt resource value: 0x7F0E0179
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624313;
-			
-			// aapt resource value: 0x7F0E017A
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624314;
-			
-			// aapt resource value: 0x7F0E017B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624315;
-			
-			// aapt resource value: 0x7F0E017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624316;
-			
-			// aapt resource value: 0x7F0E017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624317;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624250;
 			
 			// aapt resource value: 0x7F0E013B
-			public const int Theme_AppCompat = 2131624251;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624251;
 			
-			// aapt resource value: 0x7F0E013C
-			public const int Theme_AppCompat_CompactMenu = 2131624252;
+			// aapt resource value: 0x7F0E016C
+			public const int ThemeOverlay_AppCompat = 2131624300;
 			
-			// aapt resource value: 0x7F0E013D
-			public const int Theme_AppCompat_DayNight = 2131624253;
+			// aapt resource value: 0x7F0E016D
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131624301;
 			
-			// aapt resource value: 0x7F0E013E
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624254;
+			// aapt resource value: 0x7F0E016E
+			public const int ThemeOverlay_AppCompat_Dark = 2131624302;
 			
-			// aapt resource value: 0x7F0E013F
-			public const int Theme_AppCompat_DayNight_Dialog = 2131624255;
+			// aapt resource value: 0x7F0E016F
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624303;
 			
-			// aapt resource value: 0x7F0E0142
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624258;
+			// aapt resource value: 0x7F0E0170
+			public const int ThemeOverlay_AppCompat_Dialog = 2131624304;
 			
-			// aapt resource value: 0x7F0E0140
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624256;
+			// aapt resource value: 0x7F0E0171
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624305;
 			
-			// aapt resource value: 0x7F0E0141
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624257;
+			// aapt resource value: 0x7F0E0172
+			public const int ThemeOverlay_AppCompat_Light = 2131624306;
 			
-			// aapt resource value: 0x7F0E0143
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624259;
+			// aapt resource value: 0x7F0E0173
+			public const int ThemeOverlay_MaterialComponents = 2131624307;
 			
-			// aapt resource value: 0x7F0E0144
-			public const int Theme_AppCompat_Dialog = 2131624260;
+			// aapt resource value: 0x7F0E0174
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624308;
 			
-			// aapt resource value: 0x7F0E0147
-			public const int Theme_AppCompat_DialogWhenLarge = 2131624263;
+			// aapt resource value: 0x7F0E0175
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131624309;
 			
-			// aapt resource value: 0x7F0E0145
-			public const int Theme_AppCompat_Dialog_Alert = 2131624261;
+			// aapt resource value: 0x7F0E0176
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624310;
 			
-			// aapt resource value: 0x7F0E0146
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131624262;
+			// aapt resource value: 0x7F0E0177
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624311;
 			
-			// aapt resource value: 0x7F0E0148
-			public const int Theme_AppCompat_Light = 2131624264;
+			// aapt resource value: 0x7F0E0178
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624312;
 			
-			// aapt resource value: 0x7F0E0149
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131624265;
+			// aapt resource value: 0x7F0E0179
+			public const int ThemeOverlay_MaterialComponents_Light = 2131624313;
 			
-			// aapt resource value: 0x7F0E014A
-			public const int Theme_AppCompat_Light_Dialog = 2131624266;
+			// aapt resource value: 0x7F0E017A
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624314;
 			
-			// aapt resource value: 0x7F0E014D
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624269;
+			// aapt resource value: 0x7F0E017B
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624315;
 			
-			// aapt resource value: 0x7F0E014B
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624267;
+			// aapt resource value: 0x7F0E017C
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624316;
 			
-			// aapt resource value: 0x7F0E014C
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624268;
-			
-			// aapt resource value: 0x7F0E014E
-			public const int Theme_AppCompat_Light_NoActionBar = 2131624270;
-			
-			// aapt resource value: 0x7F0E014F
-			public const int Theme_AppCompat_NoActionBar = 2131624271;
-			
-			// aapt resource value: 0x7F0E0150
-			public const int Theme_Design = 2131624272;
-			
-			// aapt resource value: 0x7F0E0151
-			public const int Theme_Design_BottomSheetDialog = 2131624273;
-			
-			// aapt resource value: 0x7F0E0152
-			public const int Theme_Design_Light = 2131624274;
-			
-			// aapt resource value: 0x7F0E0153
-			public const int Theme_Design_Light_BottomSheetDialog = 2131624275;
-			
-			// aapt resource value: 0x7F0E0154
-			public const int Theme_Design_Light_NoActionBar = 2131624276;
-			
-			// aapt resource value: 0x7F0E0155
-			public const int Theme_Design_NoActionBar = 2131624277;
-			
-			// aapt resource value: 0x7F0E0156
-			public const int Theme_MaterialComponents = 2131624278;
-			
-			// aapt resource value: 0x7F0E0157
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624279;
-			
-			// aapt resource value: 0x7F0E0158
-			public const int Theme_MaterialComponents_Bridge = 2131624280;
-			
-			// aapt resource value: 0x7F0E0159
-			public const int Theme_MaterialComponents_CompactMenu = 2131624281;
-			
-			// aapt resource value: 0x7F0E015A
-			public const int Theme_MaterialComponents_Dialog = 2131624282;
-			
-			// aapt resource value: 0x7F0E015D
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624285;
-			
-			// aapt resource value: 0x7F0E015B
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131624283;
-			
-			// aapt resource value: 0x7F0E015C
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624284;
-			
-			// aapt resource value: 0x7F0E015E
-			public const int Theme_MaterialComponents_Light = 2131624286;
-			
-			// aapt resource value: 0x7F0E015F
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624287;
-			
-			// aapt resource value: 0x7F0E0160
-			public const int Theme_MaterialComponents_Light_Bridge = 2131624288;
-			
-			// aapt resource value: 0x7F0E0161
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624289;
-			
-			// aapt resource value: 0x7F0E0162
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624290;
-			
-			// aapt resource value: 0x7F0E0163
-			public const int Theme_MaterialComponents_Light_Dialog = 2131624291;
-			
-			// aapt resource value: 0x7F0E0166
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624294;
-			
-			// aapt resource value: 0x7F0E0164
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624292;
-			
-			// aapt resource value: 0x7F0E0165
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624293;
-			
-			// aapt resource value: 0x7F0E0167
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624295;
-			
-			// aapt resource value: 0x7F0E0168
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624296;
-			
-			// aapt resource value: 0x7F0E0169
-			public const int Theme_MaterialComponents_NoActionBar = 2131624297;
-			
-			// aapt resource value: 0x7F0E016A
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624298;
+			// aapt resource value: 0x7F0E017D
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624317;
 			
 			// aapt resource value: 0x7F0E017E
-			public const int Widget_AppCompat_ActionBar = 2131624318;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624318;
+			
+			// aapt resource value: 0x7F0E013C
+			public const int Theme_AppCompat = 2131624252;
+			
+			// aapt resource value: 0x7F0E013D
+			public const int Theme_AppCompat_CompactMenu = 2131624253;
+			
+			// aapt resource value: 0x7F0E013E
+			public const int Theme_AppCompat_DayNight = 2131624254;
+			
+			// aapt resource value: 0x7F0E013F
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624255;
+			
+			// aapt resource value: 0x7F0E0140
+			public const int Theme_AppCompat_DayNight_Dialog = 2131624256;
+			
+			// aapt resource value: 0x7F0E0143
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624259;
+			
+			// aapt resource value: 0x7F0E0141
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624257;
+			
+			// aapt resource value: 0x7F0E0142
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624258;
+			
+			// aapt resource value: 0x7F0E0144
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624260;
+			
+			// aapt resource value: 0x7F0E0145
+			public const int Theme_AppCompat_Dialog = 2131624261;
+			
+			// aapt resource value: 0x7F0E0148
+			public const int Theme_AppCompat_DialogWhenLarge = 2131624264;
+			
+			// aapt resource value: 0x7F0E0146
+			public const int Theme_AppCompat_Dialog_Alert = 2131624262;
+			
+			// aapt resource value: 0x7F0E0147
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131624263;
+			
+			// aapt resource value: 0x7F0E0149
+			public const int Theme_AppCompat_Light = 2131624265;
+			
+			// aapt resource value: 0x7F0E014A
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131624266;
+			
+			// aapt resource value: 0x7F0E014B
+			public const int Theme_AppCompat_Light_Dialog = 2131624267;
+			
+			// aapt resource value: 0x7F0E014E
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624270;
+			
+			// aapt resource value: 0x7F0E014C
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624268;
+			
+			// aapt resource value: 0x7F0E014D
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624269;
+			
+			// aapt resource value: 0x7F0E014F
+			public const int Theme_AppCompat_Light_NoActionBar = 2131624271;
+			
+			// aapt resource value: 0x7F0E0150
+			public const int Theme_AppCompat_NoActionBar = 2131624272;
+			
+			// aapt resource value: 0x7F0E0151
+			public const int Theme_Design = 2131624273;
+			
+			// aapt resource value: 0x7F0E0152
+			public const int Theme_Design_BottomSheetDialog = 2131624274;
+			
+			// aapt resource value: 0x7F0E0153
+			public const int Theme_Design_Light = 2131624275;
+			
+			// aapt resource value: 0x7F0E0154
+			public const int Theme_Design_Light_BottomSheetDialog = 2131624276;
+			
+			// aapt resource value: 0x7F0E0155
+			public const int Theme_Design_Light_NoActionBar = 2131624277;
+			
+			// aapt resource value: 0x7F0E0156
+			public const int Theme_Design_NoActionBar = 2131624278;
+			
+			// aapt resource value: 0x7F0E0157
+			public const int Theme_MaterialComponents = 2131624279;
+			
+			// aapt resource value: 0x7F0E0158
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624280;
+			
+			// aapt resource value: 0x7F0E0159
+			public const int Theme_MaterialComponents_Bridge = 2131624281;
+			
+			// aapt resource value: 0x7F0E015A
+			public const int Theme_MaterialComponents_CompactMenu = 2131624282;
+			
+			// aapt resource value: 0x7F0E015B
+			public const int Theme_MaterialComponents_Dialog = 2131624283;
+			
+			// aapt resource value: 0x7F0E015E
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624286;
+			
+			// aapt resource value: 0x7F0E015C
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131624284;
+			
+			// aapt resource value: 0x7F0E015D
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624285;
+			
+			// aapt resource value: 0x7F0E015F
+			public const int Theme_MaterialComponents_Light = 2131624287;
+			
+			// aapt resource value: 0x7F0E0160
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624288;
+			
+			// aapt resource value: 0x7F0E0161
+			public const int Theme_MaterialComponents_Light_Bridge = 2131624289;
+			
+			// aapt resource value: 0x7F0E0162
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624290;
+			
+			// aapt resource value: 0x7F0E0163
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624291;
+			
+			// aapt resource value: 0x7F0E0164
+			public const int Theme_MaterialComponents_Light_Dialog = 2131624292;
+			
+			// aapt resource value: 0x7F0E0167
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624295;
+			
+			// aapt resource value: 0x7F0E0165
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624293;
+			
+			// aapt resource value: 0x7F0E0166
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624294;
+			
+			// aapt resource value: 0x7F0E0168
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624296;
+			
+			// aapt resource value: 0x7F0E0169
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624297;
+			
+			// aapt resource value: 0x7F0E016A
+			public const int Theme_MaterialComponents_NoActionBar = 2131624298;
+			
+			// aapt resource value: 0x7F0E016B
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624299;
 			
 			// aapt resource value: 0x7F0E017F
-			public const int Widget_AppCompat_ActionBar_Solid = 2131624319;
+			public const int Widget_AppCompat_ActionBar = 2131624319;
 			
 			// aapt resource value: 0x7F0E0180
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131624320;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131624320;
 			
 			// aapt resource value: 0x7F0E0181
-			public const int Widget_AppCompat_ActionBar_TabText = 2131624321;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131624321;
 			
 			// aapt resource value: 0x7F0E0182
-			public const int Widget_AppCompat_ActionBar_TabView = 2131624322;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131624322;
 			
 			// aapt resource value: 0x7F0E0183
-			public const int Widget_AppCompat_ActionButton = 2131624323;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131624323;
 			
 			// aapt resource value: 0x7F0E0184
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624324;
+			public const int Widget_AppCompat_ActionButton = 2131624324;
 			
 			// aapt resource value: 0x7F0E0185
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131624325;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624325;
 			
 			// aapt resource value: 0x7F0E0186
-			public const int Widget_AppCompat_ActionMode = 2131624326;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131624326;
 			
 			// aapt resource value: 0x7F0E0187
-			public const int Widget_AppCompat_ActivityChooserView = 2131624327;
+			public const int Widget_AppCompat_ActionMode = 2131624327;
 			
 			// aapt resource value: 0x7F0E0188
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131624328;
+			public const int Widget_AppCompat_ActivityChooserView = 2131624328;
 			
 			// aapt resource value: 0x7F0E0189
-			public const int Widget_AppCompat_Button = 2131624329;
-			
-			// aapt resource value: 0x7F0E018F
-			public const int Widget_AppCompat_ButtonBar = 2131624335;
-			
-			// aapt resource value: 0x7F0E0190
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624336;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131624329;
 			
 			// aapt resource value: 0x7F0E018A
-			public const int Widget_AppCompat_Button_Borderless = 2131624330;
+			public const int Widget_AppCompat_Button = 2131624330;
 			
-			// aapt resource value: 0x7F0E018B
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624331;
-			
-			// aapt resource value: 0x7F0E018C
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624332;
-			
-			// aapt resource value: 0x7F0E018D
-			public const int Widget_AppCompat_Button_Colored = 2131624333;
-			
-			// aapt resource value: 0x7F0E018E
-			public const int Widget_AppCompat_Button_Small = 2131624334;
+			// aapt resource value: 0x7F0E0190
+			public const int Widget_AppCompat_ButtonBar = 2131624336;
 			
 			// aapt resource value: 0x7F0E0191
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624337;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624337;
+			
+			// aapt resource value: 0x7F0E018B
+			public const int Widget_AppCompat_Button_Borderless = 2131624331;
+			
+			// aapt resource value: 0x7F0E018C
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624332;
+			
+			// aapt resource value: 0x7F0E018D
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624333;
+			
+			// aapt resource value: 0x7F0E018E
+			public const int Widget_AppCompat_Button_Colored = 2131624334;
+			
+			// aapt resource value: 0x7F0E018F
+			public const int Widget_AppCompat_Button_Small = 2131624335;
 			
 			// aapt resource value: 0x7F0E0192
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624338;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624338;
 			
 			// aapt resource value: 0x7F0E0193
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131624339;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624339;
 			
 			// aapt resource value: 0x7F0E0194
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131624340;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131624340;
 			
 			// aapt resource value: 0x7F0E0195
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624341;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131624341;
 			
 			// aapt resource value: 0x7F0E0196
-			public const int Widget_AppCompat_EditText = 2131624342;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624342;
 			
 			// aapt resource value: 0x7F0E0197
-			public const int Widget_AppCompat_ImageButton = 2131624343;
+			public const int Widget_AppCompat_EditText = 2131624343;
 			
 			// aapt resource value: 0x7F0E0198
-			public const int Widget_AppCompat_Light_ActionBar = 2131624344;
+			public const int Widget_AppCompat_ImageButton = 2131624344;
 			
 			// aapt resource value: 0x7F0E0199
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624345;
+			public const int Widget_AppCompat_Light_ActionBar = 2131624345;
 			
 			// aapt resource value: 0x7F0E019A
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624346;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624346;
 			
 			// aapt resource value: 0x7F0E019B
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624347;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624347;
 			
 			// aapt resource value: 0x7F0E019C
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624348;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624348;
 			
 			// aapt resource value: 0x7F0E019D
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624349;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624349;
 			
 			// aapt resource value: 0x7F0E019E
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624350;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624350;
 			
 			// aapt resource value: 0x7F0E019F
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624351;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624351;
 			
 			// aapt resource value: 0x7F0E01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624352;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624352;
 			
 			// aapt resource value: 0x7F0E01A1
-			public const int Widget_AppCompat_Light_ActionButton = 2131624353;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624353;
 			
 			// aapt resource value: 0x7F0E01A2
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624354;
+			public const int Widget_AppCompat_Light_ActionButton = 2131624354;
 			
 			// aapt resource value: 0x7F0E01A3
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624355;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624355;
 			
 			// aapt resource value: 0x7F0E01A4
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624356;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624356;
 			
 			// aapt resource value: 0x7F0E01A5
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624357;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624357;
 			
 			// aapt resource value: 0x7F0E01A6
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624358;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624358;
 			
 			// aapt resource value: 0x7F0E01A7
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624359;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624359;
 			
 			// aapt resource value: 0x7F0E01A8
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624360;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624360;
 			
 			// aapt resource value: 0x7F0E01A9
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624361;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624361;
 			
 			// aapt resource value: 0x7F0E01AA
-			public const int Widget_AppCompat_Light_PopupMenu = 2131624362;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624362;
 			
 			// aapt resource value: 0x7F0E01AB
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624363;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131624363;
 			
 			// aapt resource value: 0x7F0E01AC
-			public const int Widget_AppCompat_Light_SearchView = 2131624364;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624364;
 			
 			// aapt resource value: 0x7F0E01AD
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624365;
+			public const int Widget_AppCompat_Light_SearchView = 2131624365;
 			
 			// aapt resource value: 0x7F0E01AE
-			public const int Widget_AppCompat_ListMenuView = 2131624366;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624366;
 			
 			// aapt resource value: 0x7F0E01AF
-			public const int Widget_AppCompat_ListPopupWindow = 2131624367;
+			public const int Widget_AppCompat_ListMenuView = 2131624367;
 			
 			// aapt resource value: 0x7F0E01B0
-			public const int Widget_AppCompat_ListView = 2131624368;
+			public const int Widget_AppCompat_ListPopupWindow = 2131624368;
 			
 			// aapt resource value: 0x7F0E01B1
-			public const int Widget_AppCompat_ListView_DropDown = 2131624369;
+			public const int Widget_AppCompat_ListView = 2131624369;
 			
 			// aapt resource value: 0x7F0E01B2
-			public const int Widget_AppCompat_ListView_Menu = 2131624370;
+			public const int Widget_AppCompat_ListView_DropDown = 2131624370;
 			
 			// aapt resource value: 0x7F0E01B3
-			public const int Widget_AppCompat_PopupMenu = 2131624371;
+			public const int Widget_AppCompat_ListView_Menu = 2131624371;
 			
 			// aapt resource value: 0x7F0E01B4
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624372;
+			public const int Widget_AppCompat_PopupMenu = 2131624372;
 			
 			// aapt resource value: 0x7F0E01B5
-			public const int Widget_AppCompat_PopupWindow = 2131624373;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624373;
 			
 			// aapt resource value: 0x7F0E01B6
-			public const int Widget_AppCompat_ProgressBar = 2131624374;
+			public const int Widget_AppCompat_PopupWindow = 2131624374;
 			
 			// aapt resource value: 0x7F0E01B7
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624375;
+			public const int Widget_AppCompat_ProgressBar = 2131624375;
 			
 			// aapt resource value: 0x7F0E01B8
-			public const int Widget_AppCompat_RatingBar = 2131624376;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624376;
 			
 			// aapt resource value: 0x7F0E01B9
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131624377;
+			public const int Widget_AppCompat_RatingBar = 2131624377;
 			
 			// aapt resource value: 0x7F0E01BA
-			public const int Widget_AppCompat_RatingBar_Small = 2131624378;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131624378;
 			
 			// aapt resource value: 0x7F0E01BB
-			public const int Widget_AppCompat_SearchView = 2131624379;
+			public const int Widget_AppCompat_RatingBar_Small = 2131624379;
 			
 			// aapt resource value: 0x7F0E01BC
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131624380;
+			public const int Widget_AppCompat_SearchView = 2131624380;
 			
 			// aapt resource value: 0x7F0E01BD
-			public const int Widget_AppCompat_SeekBar = 2131624381;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131624381;
 			
 			// aapt resource value: 0x7F0E01BE
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131624382;
+			public const int Widget_AppCompat_SeekBar = 2131624382;
 			
 			// aapt resource value: 0x7F0E01BF
-			public const int Widget_AppCompat_Spinner = 2131624383;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131624383;
 			
 			// aapt resource value: 0x7F0E01C0
-			public const int Widget_AppCompat_Spinner_DropDown = 2131624384;
+			public const int Widget_AppCompat_Spinner = 2131624384;
 			
 			// aapt resource value: 0x7F0E01C1
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624385;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131624385;
 			
 			// aapt resource value: 0x7F0E01C2
-			public const int Widget_AppCompat_Spinner_Underlined = 2131624386;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624386;
 			
 			// aapt resource value: 0x7F0E01C3
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624387;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131624387;
 			
 			// aapt resource value: 0x7F0E01C4
-			public const int Widget_AppCompat_Toolbar = 2131624388;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624388;
 			
 			// aapt resource value: 0x7F0E01C5
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624389;
+			public const int Widget_AppCompat_Toolbar = 2131624389;
 			
 			// aapt resource value: 0x7F0E01C6
-			public const int Widget_Compat_NotificationActionContainer = 2131624390;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624390;
 			
 			// aapt resource value: 0x7F0E01C7
-			public const int Widget_Compat_NotificationActionText = 2131624391;
+			public const int Widget_Compat_NotificationActionContainer = 2131624391;
 			
 			// aapt resource value: 0x7F0E01C8
-			public const int Widget_Design_AppBarLayout = 2131624392;
+			public const int Widget_Compat_NotificationActionText = 2131624392;
 			
 			// aapt resource value: 0x7F0E01C9
-			public const int Widget_Design_BottomNavigationView = 2131624393;
+			public const int Widget_Design_AppBarLayout = 2131624393;
 			
 			// aapt resource value: 0x7F0E01CA
-			public const int Widget_Design_BottomSheet_Modal = 2131624394;
+			public const int Widget_Design_BottomNavigationView = 2131624394;
 			
 			// aapt resource value: 0x7F0E01CB
-			public const int Widget_Design_CollapsingToolbar = 2131624395;
+			public const int Widget_Design_BottomSheet_Modal = 2131624395;
 			
 			// aapt resource value: 0x7F0E01CC
-			public const int Widget_Design_FloatingActionButton = 2131624396;
+			public const int Widget_Design_CollapsingToolbar = 2131624396;
 			
 			// aapt resource value: 0x7F0E01CD
-			public const int Widget_Design_NavigationView = 2131624397;
+			public const int Widget_Design_FloatingActionButton = 2131624397;
 			
 			// aapt resource value: 0x7F0E01CE
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624398;
+			public const int Widget_Design_NavigationView = 2131624398;
 			
 			// aapt resource value: 0x7F0E01CF
-			public const int Widget_Design_Snackbar = 2131624399;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624399;
 			
 			// aapt resource value: 0x7F0E01D0
-			public const int Widget_Design_TabLayout = 2131624400;
+			public const int Widget_Design_Snackbar = 2131624400;
 			
 			// aapt resource value: 0x7F0E01D1
-			public const int Widget_Design_TextInputLayout = 2131624401;
+			public const int Widget_Design_TabLayout = 2131624401;
 			
 			// aapt resource value: 0x7F0E01D2
-			public const int Widget_MaterialComponents_BottomAppBar = 2131624402;
+			public const int Widget_Design_TextInputLayout = 2131624402;
 			
 			// aapt resource value: 0x7F0E01D3
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624403;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131624403;
 			
 			// aapt resource value: 0x7F0E01D4
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131624404;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624404;
 			
 			// aapt resource value: 0x7F0E01D5
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624405;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131624405;
 			
 			// aapt resource value: 0x7F0E01D6
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624406;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624406;
 			
 			// aapt resource value: 0x7F0E01D7
-			public const int Widget_MaterialComponents_Button = 2131624407;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624407;
 			
 			// aapt resource value: 0x7F0E01D8
-			public const int Widget_MaterialComponents_Button_Icon = 2131624408;
+			public const int Widget_MaterialComponents_Button = 2131624408;
 			
 			// aapt resource value: 0x7F0E01D9
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624409;
+			public const int Widget_MaterialComponents_Button_Icon = 2131624409;
 			
 			// aapt resource value: 0x7F0E01DA
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624410;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624410;
 			
 			// aapt resource value: 0x7F0E01DB
-			public const int Widget_MaterialComponents_Button_TextButton = 2131624411;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624411;
 			
 			// aapt resource value: 0x7F0E01DC
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624412;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131624412;
 			
 			// aapt resource value: 0x7F0E01DD
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624413;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624413;
 			
 			// aapt resource value: 0x7F0E01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624414;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624414;
 			
 			// aapt resource value: 0x7F0E01DF
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624415;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624415;
 			
 			// aapt resource value: 0x7F0E01E0
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624416;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624416;
 			
 			// aapt resource value: 0x7F0E01E1
-			public const int Widget_MaterialComponents_CardView = 2131624417;
-			
-			// aapt resource value: 0x7F0E01E6
-			public const int Widget_MaterialComponents_ChipGroup = 2131624422;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624417;
 			
 			// aapt resource value: 0x7F0E01E2
-			public const int Widget_MaterialComponents_Chip_Action = 2131624418;
-			
-			// aapt resource value: 0x7F0E01E3
-			public const int Widget_MaterialComponents_Chip_Choice = 2131624419;
-			
-			// aapt resource value: 0x7F0E01E4
-			public const int Widget_MaterialComponents_Chip_Entry = 2131624420;
-			
-			// aapt resource value: 0x7F0E01E5
-			public const int Widget_MaterialComponents_Chip_Filter = 2131624421;
+			public const int Widget_MaterialComponents_CardView = 2131624418;
 			
 			// aapt resource value: 0x7F0E01E7
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131624423;
+			public const int Widget_MaterialComponents_ChipGroup = 2131624423;
+			
+			// aapt resource value: 0x7F0E01E3
+			public const int Widget_MaterialComponents_Chip_Action = 2131624419;
+			
+			// aapt resource value: 0x7F0E01E4
+			public const int Widget_MaterialComponents_Chip_Choice = 2131624420;
+			
+			// aapt resource value: 0x7F0E01E5
+			public const int Widget_MaterialComponents_Chip_Entry = 2131624421;
+			
+			// aapt resource value: 0x7F0E01E6
+			public const int Widget_MaterialComponents_Chip_Filter = 2131624422;
 			
 			// aapt resource value: 0x7F0E01E8
-			public const int Widget_MaterialComponents_NavigationView = 2131624424;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131624424;
 			
 			// aapt resource value: 0x7F0E01E9
-			public const int Widget_MaterialComponents_Snackbar = 2131624425;
+			public const int Widget_MaterialComponents_NavigationView = 2131624425;
 			
 			// aapt resource value: 0x7F0E01EA
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624426;
+			public const int Widget_MaterialComponents_Snackbar = 2131624426;
 			
 			// aapt resource value: 0x7F0E01EB
-			public const int Widget_MaterialComponents_TabLayout = 2131624427;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624427;
 			
 			// aapt resource value: 0x7F0E01EC
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624428;
+			public const int Widget_MaterialComponents_TabLayout = 2131624428;
 			
 			// aapt resource value: 0x7F0E01ED
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624429;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624429;
 			
 			// aapt resource value: 0x7F0E01EE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624430;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624430;
 			
 			// aapt resource value: 0x7F0E01EF
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624431;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624431;
 			
 			// aapt resource value: 0x7F0E01F0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624432;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624432;
 			
 			// aapt resource value: 0x7F0E01F1
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624433;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624433;
 			
 			// aapt resource value: 0x7F0E01F2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624434;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624434;
 			
 			// aapt resource value: 0x7F0E01F3
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624435;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624435;
 			
 			// aapt resource value: 0x7F0E01F4
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624436;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624436;
 			
 			// aapt resource value: 0x7F0E01F5
-			public const int Widget_MaterialComponents_Toolbar = 2131624437;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624437;
 			
 			// aapt resource value: 0x7F0E01F6
-			public const int Widget_Support_CoordinatorLayout = 2131624438;
+			public const int Widget_MaterialComponents_Toolbar = 2131624438;
+			
+			// aapt resource value: 0x7F0E01F7
+			public const int Widget_Support_CoordinatorLayout = 2131624439;
 			
 			static Style()
 			{
