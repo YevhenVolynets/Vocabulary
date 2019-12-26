@@ -1,11 +1,13 @@
-﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Prism.Ioc;
+using Prism.Unity;
+using Unity;
 
 namespace Vocabulary
 {
-    public partial class App : Application
+    public partial class App : PrismApplication
     {
+        public static IUnityContainer UnityContainer { get; private set; }
+
         public App()
         {
             InitializeComponent();
@@ -26,6 +28,17 @@ namespace Vocabulary
         protected override void OnResume()
         {
             // Handle when your app resumes
+        }
+
+        protected override void RegisterTypes(IContainerRegistry containerRegistry)
+        {
+            UnityContainer = Container.GetContainer();
+            UnityContainer.AddExtension(new ForceActivation());
+        }
+
+        protected override void OnInitialized()
+        {
+            
         }
     }
 }
